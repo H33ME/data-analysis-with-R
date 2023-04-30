@@ -1,0 +1,2217 @@
+status,age,familysize,healthy,gender,education,married,selfemployed,region,race
+insured,55,1,Yes,Female,High School Diploma,No,No,South,White
+insured,52,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,39,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,46,4,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,49,6,Yes,Male,High School Diploma,Yes,No,West,White
+insured,61,3,Yes,Male,PhD Degree,Yes,No,MidWest,White
+insured,30,2,Yes,M,Bachelor Degree,Yes,No,MidWest,White
+insured,49,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,40,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,33,4,Yes,F,No certificate,married,No,West,White
+insured,53,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,26,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,26,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,31,3,Yes,Male,High School Diploma,No,No,West,White
+insured,57,2,Yes,Male,PhD Degree,Yes,No,West,White
+insured,40,2,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,33,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,46,3,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,46,3,Yes,Female,Master's Degree,Yes,No,South,White
+insured,49,3,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,40,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,48,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,19,3,Yes,Female,Other Degree,No,No,West,White
+insured,23,1,Yes,Female,Bachelor Degree,No,No,West,White
+insured,48,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,50,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,33,3,No,Female,Other Degree,Yes,No,NorthEast,White
+insured,35,5,Yes,Male,Bachelor Degree,married,No,NorthEast,White
+insured,38,2,Yes,M,High School Diploma,No,No,MidWest,White
+insured,43,3,Yes,Female,Other Degree,No,No,West,White
+insured,40,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,35,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,40,3,Yes,Female,Other Degree,No,No,West,White
+insured,50,5,Yes,F,High School Diploma,Yes,No,NorthEast,White
+insured,49,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,21,5,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,19,5,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,42,1,Yes,Female,No certificate,No,No,West,White
+insured,44,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,43,,Yes,Female,Master's Degree,Yes,No,South,White
+insured,47,4,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,45,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,39,1,Yes,Female,Other Degree,No,No,NorthEast,White
+insured,59,2,Yes,Female,Master's Degree,Yes,No,South,White
+insured,37,1,Yes,Male,High School Diploma,No,No,West,White
+insured,26,1,Yes,Male,High School Diploma,single,No,South,White
+insured,27,1,Yes,Male,Bachelor Degree,single,No,West,White
+insured,49,4,Yes,Male,Master's Degree,Yes,No,South,White
+insured,48,4,Yes,Female,Other Degree,Yes,No,South,White
+insured,44,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,51,4,Yes,Male,Bachelor Degree,single,No,West,White
+insured,44,2,Yes,Male,High School Diploma,single,No,MidWest,White
+insured,33,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,37,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,41,2,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,50,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,41,2,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,56,4,Yes,Male,PhD Degree,Yes,No,West,White
+insured,56,4,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,19,4,Yes,Female,High School Diploma,No,No,West,White
+insured,,2,Yes,Female,High School Diploma,Yes,No,MidWest,Other
+insured,24,1,Yes,Male,Bachelor Degree,No,No,West,White
+insured,40,2,Yes,Male,High School Diploma,Yes,No,West,Other
+insured,33,2,Yes,Female,PhD Degree,Yes,No,West,Other
+insured,45,4,Yes,Female,Bachelor Degree,No,No,West,White
+insured,37,4,Yes,Female,Other Degree,No,No,West,White
+insured,42,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,40,4,Yes,F,High School Diploma,Yes,No,NorthEast,White
+insured,46,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,46,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,36,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,35,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,54,5,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,28,5,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,21,5,Yes,Female,Other Degree,No,No,MidWest,White
+insured,40,3,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,46,3,Yes,M,Master's Degree,Yes,No,MidWest,White
+insured,33,4,Yes,M,High School Diploma,Yes,No,West,White
+insured,41,4,Yes,M,Other Degree,Yes,No,MidWest,White
+insured,34,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,36,4,Yes,Female,Master's Degree,Yes,No,South,White
+insured,40,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,44,,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,41,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,39,5,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,27,2,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,33,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,51,1,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,23,2,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,37,3,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,61,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,56,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,47,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,48,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,33,2,Yes,Female,Other Degree,No,No,MidWest,White
+insured,45,1,Yes,Female,Bachelor Degree,No,No,South,White
+insured,35,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,50,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,23,,Yes,F,High School Diploma,No,No,NorthEast,White
+insured,54,2,Yes,F,High School Diploma,No,No,MidWest,White
+insured,34,3,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,30,3,Yes,F,Master's Degree,Yes,No,MidWest,White
+insured,51,4,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,47,4,Yes,F,Other Degree,Yes,No,MidWest,White
+insured,20,4,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,39,2,Yes,Female,High School Diploma,Yes,No,MidWest,Other
+insured,39,2,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,46,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,29,50,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,48,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+insured,45,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,40,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,44,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,37,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,42,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,43,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,39,,Yes,Female,Master's Degree,Yes,No,South,White
+insured,26,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,26,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,31,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,51,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,42,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,39,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,31,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,47,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,38,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,61,2,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,59,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,42,5,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,41,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,30,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,42,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,54,1,Yes,Female,High School Diploma,No,No,South,White
+insured,46,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,46,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,60,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,36,2,Yes,Female,High School Diploma,No,No,South,White
+insured,40,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,36,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,29,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,40,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,3,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,56,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,43,4,Yes,Female,Master's Degree,Yes,No,South,White
+insured,43,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,43,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,45,1,Yes,Female,High School Diploma,No,No,South,White
+insured,53,2,Yes,Male,Master's Degree,Yes,No,South,White
+insured,51,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,53,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,27,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,44,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+insured,37,2,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,38,2,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,38,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,49,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,31,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,49,1,Yes,Female,Bachelor Degree,No,No,West,White
+insured,51,3,No,Female,No certificate,No,No,NorthEast,White
+insured,31,3,Yes,Female,No certificate,No,No,NorthEast,White
+insured,48,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,43,6,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,61,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,61,2,Yes,Female,Other Degree,Yes,No,MidWest,White
+insured,26,3,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,45,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,56,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,35,3,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,25,3,Yes,Female,Other Degree,Yes,No,MidWest,White
+insured,29,1,Yes,Female,PhD Degree,No,No,MidWest,White
+insured,59,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,44,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,24,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,48,5,Yes,Male,Master's Degree,Yes,No,West,White
+insured,53,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,52,4,Yes,Female,No certificate,Yes,No,MidWest,White
+insured,30,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,39,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,40,4,Yes,Female,Master's Degree,Yes,No,South,White
+insured,48,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,46,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,40,2,Yes,Female,High School Diploma,No,No,South,White
+insured,29,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,31,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,35,1,Yes,Male,Other Degree,No,No,NorthEast,White
+insured,35,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,51,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,44,2,Yes,Male,High School Diploma,No,No,South,White
+insured,39,2,Yes,Male,High School Diploma,No,No,West,Other
+insured,35,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,35,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,52,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,50,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,32,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,43,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,31,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,61,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,48,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,37,1,Yes,Female,High School Diploma,No,No,West,White
+insured,31,5,Yes,Female,High School Diploma,No,No,MidWest,Black
+insured,51,2,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,37,6,Yes,Male,High School Diploma,Yes,No,West,White
+insured,37,6,Yes,Female,High School Diploma,Yes,No,West,White
+insured,40,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,52,2,Yes,Female,High School Diploma,No,No,West,White
+insured,54,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,47,2,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,20,2,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,35,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,62,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,35,4,Yes,Female,Bachelor Degree,Yes,No,West,Other
+insured,49,3,Yes,Female,No certificate,No,No,West,White
+insured,46,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,24,2,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,29,2,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,39,5,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,37,5,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,18,4,Yes,Female,High School Diploma,No,No,West,White
+insured,54,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,22,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,30,2,Yes,Female,High School Diploma,No,No,South,White
+insured,34,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,54,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,27,2,Yes,Female,High School Diploma,No,No,South,White
+insured,48,3,Yes,Female,Master's Degree,No,No,South,White
+insured,35,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,32,4,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,57,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,57,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,39,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,37,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,25,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,26,4,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,21,4,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,40,2,Yes,Female,Bachelor Degree,No,No,South,White
+insured,55,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,45,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,38,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,28,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,52,2,Yes,Female,PhD Degree,Yes,No,South,White
+insured,58,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,Other
+insured,43,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,Other
+insured,42,2,Yes,Female,Bachelor Degree,No,No,South,White
+insured,46,2,Yes,Female,Other Degree,No,No,MidWest,White
+insured,31,5,Yes,Male,High School Diploma,Yes,No,West,Other
+insured,34,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,44,6,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,44,6,Yes,Female,Other Degree,Yes,No,MidWest,White
+insured,29,3,Yes,Female,Other Degree,Yes,No,South,White
+insured,44,3,Yes,Female,No certificate,Yes,No,West,White
+insured,22,3,Yes,Male,High School Diploma,No,No,West,White
+insured,51,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,49,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,33,4,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,29,4,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,27,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,44,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,40,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,39,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,38,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,53,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,28,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,26,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,45,4,Yes,Male,Master's Degree,Yes,No,South,White
+insured,46,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,56,2,Yes,Female,Bachelor Degree,No,No,South,White
+insured,23,2,Yes,Male,High School Diploma,No,No,South,White
+insured,52,4,Yes,Female,Other Degree,No,No,South,White
+insured,32,4,Yes,Female,High School Diploma,No,No,South,White
+not insured,41,1,Yes,Male,Master's Degree,No,No,MidWest,Black
+insured,40,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,37,3,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,35,3,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,33,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,34,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,43,5,Yes,Female,High School Diploma,Yes,No,South,White
+insured,30,1,Yes,Male,High School Diploma,No,No,West,White
+insured,41,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,35,3,Yes,Male,High School Diploma,No,No,West,White
+insured,53,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,27,2,Yes,Female,Other Degree,No,No,West,White
+insured,37,4,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,33,1,Yes,Female,High School Diploma,No,No,West,White
+insured,59,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,59,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,55,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,30,2,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,56,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,59,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,44,5,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,42,5,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,28,2,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,25,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,30,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,45,5,Yes,Female,Other Degree,Yes,No,MidWest,Black
+insured,62,1,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,26,1,Yes,Male,High School Diploma,No,No,South,White
+insured,51,2,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,50,2,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,60,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,55,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,56,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,53,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,27,1,Yes,Female,Bachelor Degree,No,No,South,White
+insured,47,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,46,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+not insured,35,3,Yes,Male,PhD Degree,Yes,No,South,Other
+insured,49,2,Yes,Male,PhD Degree,Yes,No,South,White
+insured,54,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,61,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,62,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,61,3,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,38,6,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,39,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,35,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,38,1,Yes,Female,Other Degree,No,No,South,White
+insured,61,2,Yes,Male,PhD Degree,Yes,No,MidWest,White
+insured,38,5,Yes,Female,High School Diploma,No,No,South,White
+insured,31,2,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,29,2,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,55,1,Yes,Female,High School Diploma,No,No,South,White
+insured,35,5,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,34,5,Yes,Male,Bachelor Degree,Yes,No,MidWest,Other
+insured,32,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,46,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,58,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,61,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,51,3,Yes,Male,Master's Degree,Yes,No,South,Other
+insured,41,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,46,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,26,3,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,28,5,Yes,Female,No certificate,No,No,MidWest,White
+insured,36,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,46,5,Yes,Male,Master's Degree,Yes,No,West,White
+insured,35,5,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,39,1,Yes,Female,PhD Degree,No,No,South,White
+insured,24,3,Yes,Male,High School Diploma,No,No,West,Other
+insured,50,3,Yes,Male,Master's Degree,Yes,No,West,White
+insured,50,3,Yes,Female,Bachelor Degree,Yes,No,West,White
+not insured,28,1,Yes,Male,PhD Degree,No,No,South,White
+insured,36,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,38,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,23,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,41,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+insured,54,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,52,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,26,4,Yes,Male,High School Diploma,No,No,South,White
+insured,48,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,35,2,Yes,Female,Master's Degree,Yes,No,South,White
+insured,33,2,Yes,Male,High School Diploma,No,No,South,White
+insured,43,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,44,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,49,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,43,5,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,39,5,Yes,Female,High School Diploma,Yes,No,South,White
+insured,29,2,Yes,Female,No certificate,Yes,No,MidWest,White
+insured,29,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,18,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,43,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,27,1,Yes,Male,Master's Degree,No,No,West,White
+insured,59,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,47,4,Yes,Male,Master's Degree,Yes,No,West,White
+insured,37,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,46,5,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,47,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,45,3,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,56,4,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,19,4,Yes,Male,High School Diploma,No,No,West,White
+insured,32,1,Yes,Male,Master's Degree,No,No,West,White
+insured,28,2,Yes,Male,Master's Degree,Yes,No,West,Other
+insured,35,4,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,30,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,25,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,52,2,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,61,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,Other
+insured,54,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,24,3,Yes,Male,High School Diploma,No,No,South,White
+insured,34,1,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,42,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,46,3,Yes,Male,High School Diploma,Yes,No,South,Other
+insured,24,3,Yes,Male,Other Degree,No,No,West,White
+insured,25,1,Yes,Male,High School Diploma,No,No,West,White
+insured,26,3,Yes,Female,Other Degree,No,No,West,White
+insured,32,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,39,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,48,2,Yes,Female,PhD Degree,Yes,No,NorthEast,Other
+insured,45,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,30,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,33,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,37,4,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,36,4,Yes,Male,Other Degree,Yes,No,West,White
+insured,49,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,47,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,23,3,Yes,Male,High School Diploma,No,No,South,White
+insured,49,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,28,3,Yes,Female,High School Diploma,No,No,South,White
+insured,47,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,52,4,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,52,3,Yes,Female,No certificate,Yes,No,West,White
+insured,26,3,Yes,Female,Other Degree,No,No,West,White
+insured,44,2,Yes,Female,Master's Degree,No,No,South,White
+insured,53,1,Yes,Female,High School Diploma,No,No,South,White
+insured,48,2,Yes,Female,Master's Degree,No,No,West,White
+insured,31,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,37,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,32,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,44,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,42,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,42,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,31,5,Yes,Male,High School Diploma,Yes,No,West,White
+insured,31,5,Yes,Female,High School Diploma,Yes,No,West,Other
+insured,35,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,36,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,58,1,Yes,Male,Bachelor Degree,No,No,West,White
+insured,50,3,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,30,1,Yes,Female,High School Diploma,No,No,South,White
+insured,62,1,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,33,1,Yes,Female,Master's Degree,No,No,NorthEast,White
+insured,44,4,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,48,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,20,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,18,4,Yes,Female,No certificate,No,No,MidWest,White
+insured,56,1,Yes,Female,Bachelor Degree,No,No,South,White
+insured,43,2,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,30,3,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,29,3,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,33,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,31,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,47,4,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,34,5,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,42,6,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,31,3,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,28,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,33,6,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,31,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,32,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,34,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,50,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,35,2,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,51,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,47,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,47,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,35,1,Yes,Male,High School Diploma,No,No,South,White
+insured,50,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,49,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,25,2,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,23,1,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,23,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,47,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,31,2,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,34,2,Yes,Male,Other Degree,Yes,No,West,White
+insured,35,3,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,29,3,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,42,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,35,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,43,3,Yes,Female,No certificate,No,No,NorthEast,White
+insured,39,3,Yes,Female,No certificate,No,No,West,White
+insured,30,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,47,3,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,46,3,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,36,1,Yes,Male,High School Diploma,No,No,South,White
+insured,42,4,Yes,Male,Other Degree,Yes,No,West,White
+insured,37,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,36,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,41,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,53,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,54,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,23,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,24,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,42,1,Yes,Male,Master's Degree,No,No,South,White
+insured,48,5,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,48,5,Yes,Female,Master's Degree,Yes,No,NorthEast,White
+insured,19,5,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,52,1,Yes,Female,PhD Degree,No,No,West,White
+insured,46,2,Yes,Female,Master's Degree,Yes,No,NorthEast,White
+insured,29,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,27,2,Yes,Female,Master's Degree,Yes,No,South,White
+insured,41,5,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,39,5,Yes,Female,Other Degree,Yes,No,MidWest,White
+insured,26,1,Yes,Female,High School Diploma,No,No,South,White
+insured,41,6,Yes,Female,High School Diploma,Yes,No,West,White
+insured,47,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,51,2,Yes,Female,No certificate,Yes,No,MidWest,White
+insured,45,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,41,4,Yes,Male,Master's Degree,Yes,No,South,White
+insured,39,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,30,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,28,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,34,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,21,2,Yes,Female,Other Degree,Yes,No,MidWest,White
+insured,37,1,Yes,Male,PhD Degree,No,No,MidWest,White
+insured,52,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,38,1,No,Male,Bachelor Degree,No,No,South,White
+insured,61,2,Yes,Male,Bachelor Degree,No,No,South,White
+insured,29,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,36,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,35,3,Yes,Male,High School Diploma,Yes,No,West,Other
+insured,28,1,Yes,Male,Master's Degree,No,No,West,White
+insured,23,1,Yes,Male,Bachelor Degree,No,No,West,White
+insured,39,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,32,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,40,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,54,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,34,4,No,Female,High School Diploma,Yes,No,NorthEast,White
+insured,26,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,30,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,36,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,52,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,31,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,3,Yes,Female,Other Degree,No,No,NorthEast,White
+insured,49,1,Yes,Female,Master's Degree,No,No,South,White
+insured,53,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,50,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,25,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,52,2,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,35,2,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,43,1,Yes,Male,PhD Degree,No,No,MidWest,White
+insured,45,2,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,37,6,Yes,Female,No certificate,Yes,No,West,White
+insured,33,6,Yes,Male,High School Diploma,Yes,No,West,White
+insured,25,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,24,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,44,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,22,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,27,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,27,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,45,3,Yes,Male,Other Degree,Yes,No,West,White
+insured,46,3,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,39,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,61,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,26,1,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,32,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,28,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,52,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,36,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,43,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,52,2,Yes,Male,High School Diploma,No,No,West,White
+insured,31,3,Yes,Male,High School Diploma,No,No,South,White
+insured,37,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,26,1,Yes,Female,Other Degree,No,No,MidWest,White
+insured,55,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,61,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,53,3,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,52,3,Yes,Male,Master's Degree,Yes,No,West,White
+insured,32,1,Yes,Female,Master's Degree,No,No,NorthEast,White
+insured,54,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,51,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,31,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,44,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,47,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,20,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,52,1,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,62,2,Yes,Female,No certificate,No,No,MidWest,White
+insured,40,2,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,29,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,60,1,Yes,Female,High School Diploma,No,No,West,White
+insured,45,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,48,3,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,59,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,40,4,Yes,Male,PhD Degree,Yes,No,South,White
+insured,38,4,Yes,Female,PhD Degree,Yes,No,South,White
+insured,25,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,37,1,Yes,Male,Bachelor Degree,No,No,West,White
+insured,38,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,50,4,Yes,Female,High School Diploma,Yes,No,MidWest,Other
+insured,46,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,31,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,46,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,39,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,44,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,45,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,34,5,Yes,Female,No certificate,No,No,NorthEast,White
+insured,37,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,25,3,Yes,Male,High School Diploma,No,No,South,White
+insured,28,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,30,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,33,1,Yes,Male,High School Diploma,No,No,South,White
+insured,44,6,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,59,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,41,6,Yes,Male,Bachelor Degree,Yes,No,NorthEast,Other
+insured,41,6,Yes,Female,Bachelor Degree,Yes,No,NorthEast,Other
+insured,38,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,42,3,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,54,1,Yes,Male,Master's Degree,No,No,South,Other
+insured,38,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,35,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,53,1,Yes,Female,High School Diploma,No,No,South,White
+insured,47,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,47,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,44,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,43,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,49,1,Yes,Male,High School Diploma,No,No,West,White
+insured,45,2,Yes,Female,Other Degree,No,No,MidWest,White
+insured,62,2,Yes,Male,PhD Degree,Yes,No,NorthEast,White
+insured,29,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,26,1,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,32,5,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,29,2,Yes,Female,High School Diploma,No,No,West,White
+insured,30,1,Yes,Male,Master's Degree,No,No,MidWest,Other
+insured,25,1,Yes,Male,Bachelor Degree,No,No,South,Other
+insured,39,2,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,54,2,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,26,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,52,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,24,3,Yes,Male,High School Diploma,No,No,West,Other
+insured,47,1,Yes,Male,High School Diploma,No,No,South,White
+insured,39,1,Yes,Male,High School Diploma,No,No,NorthEast,Other
+insured,34,2,Yes,Male,High School Diploma,No,No,South,White
+insured,35,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,32,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,24,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,31,2,Yes,Male,Other Degree,Yes,No,South,White
+insured,36,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,30,3,Yes,Female,Other Degree,No,No,MidWest,White
+insured,31,3,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,30,3,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,36,5,Yes,Female,Other Degree,Yes,No,South,White
+insured,34,2,Yes,Female,Other Degree,No,No,MidWest,White
+insured,42,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,22,1,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,41,4,Yes,Female,Master's Degree,Yes,No,NorthEast,White
+insured,35,3,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,38,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,40,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,35,5,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,26,5,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,34,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,58,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,46,4,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,46,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,37,4,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,24,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,21,2,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,55,2,Yes,Female,Master's Degree,No,No,South,White
+insured,35,6,Yes,Female,High School Diploma,Yes,No,West,White
+insured,47,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,50,1,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,47,4,Yes,Male,PhD Degree,Yes,No,West,White
+insured,47,4,Yes,Female,PhD Degree,Yes,No,West,White
+not insured,51,4,Yes,Female,Master's Degree,Yes,No,MidWest,Black
+insured,52,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,Black
+insured,47,3,Yes,Male,Master's Degree,Yes,No,West,Other
+insured,48,3,Yes,Female,Bachelor Degree,Yes,No,West,Other
+insured,28,5,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,21,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,39,2,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,41,2,Yes,Female,PhD Degree,No,No,MidWest,White
+insured,23,1,Yes,Male,High School Diploma,No,No,West,White
+insured,46,2,Yes,Female,No certificate,No,No,West,White
+insured,38,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,22,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,61,4,Yes,Female,No certificate,Yes,No,MidWest,White
+insured,24,4,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,32,4,Yes,Female,Master's Degree,Yes,No,NorthEast,White
+insured,60,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,37,5,Yes,Male,High School Diploma,Yes,No,West,White
+insured,21,1,Yes,Male,High School Diploma,No,No,West,White
+insured,40,6,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,40,6,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,18,6,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,45,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,41,5,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,34,3,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,34,4,Yes,Female,No certificate,Yes,No,West,White
+insured,25,2,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,34,2,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,29,2,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,27,2,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,35,4,Yes,Male,Other Degree,Yes,No,South,White
+insured,37,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,23,1,Yes,Male,High School Diploma,No,No,West,White
+insured,23,1,Yes,Male,High School Diploma,No,No,West,White
+insured,41,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,42,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,49,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,37,5,Yes,Female,Other Degree,Yes,No,South,White
+insured,33,5,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,38,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,38,4,Yes,Female,Master's Degree,Yes,No,South,White
+insured,32,3,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,31,3,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,49,2,Yes,Male,High School Diploma,No,No,South,White
+insured,33,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,39,4,Yes,Female,No certificate,No,No,West,White
+insured,58,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,51,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,28,2,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,43,2,Yes,Female,Master's Degree,Yes,No,West,White
+insured,37,3,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,51,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,58,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,34,4,Yes,Male,High School Diploma,Yes,No,West,Other
+insured,32,4,Yes,Female,High School Diploma,Yes,No,West,Other
+insured,32,3,Yes,Male,High School Diploma,No,No,South,White
+insured,27,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,60,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,58,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,40,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,37,5,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,28,1,Yes,Male,High School Diploma,No,No,South,White
+insured,30,4,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,27,4,Yes,Female,No certificate,Yes,No,West,White
+insured,32,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,32,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,59,2,No,Female,No certificate,Yes,No,MidWest,White
+insured,26,1,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,36,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,52,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,55,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,42,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,33,2,Yes,Female,High School Diploma,No,No,MidWest,Other
+insured,19,2,Yes,Male,High School Diploma,No,No,MidWest,Other
+insured,60,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,49,4,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,35,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,30,5,Yes,Female,High School Diploma,No,No,South,White
+insured,28,5,Yes,Female,High School Diploma,No,No,South,White
+insured,22,4,Yes,Female,High School Diploma,No,No,West,Other
+insured,38,4,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,33,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,36,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,46,3,Yes,Female,High School Diploma,No,No,South,White
+insured,45,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,42,5,Yes,Female,High School Diploma,Yes,No,South,White
+insured,45,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,46,3,Yes,Male,Master's Degree,Yes,No,South,White
+insured,59,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,59,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,25,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,55,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,53,2,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,59,2,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+not insured,28,1,Yes,Male,PhD Degree,No,No,South,White
+insured,34,1,Yes,Male,Other Degree,No,No,MidWest,White
+insured,53,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,32,3,Yes,Male,High School Diploma,No,No,South,White
+insured,48,1,Yes,Female,Bachelor Degree,No,No,South,White
+insured,26,2,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,43,4,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,47,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,40,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,35,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,33,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,38,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,41,2,Yes,Male,Bachelor Degree,Yes,No,West,Other
+insured,42,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,38,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,39,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,52,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,30,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,27,2,Yes,Female,High School Diploma,No,No,South,White
+insured,29,3,Yes,Male,High School Diploma,No,No,South,White
+insured,24,3,Yes,Female,Other Degree,No,No,South,White
+insured,46,1,Yes,Female,High School Diploma,No,No,South,White
+insured,49,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,26,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,26,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,42,5,Yes,Male,High School Diploma,Yes,No,West,White
+insured,41,5,Yes,Female,High School Diploma,Yes,No,West,White
+insured,41,5,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,39,5,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,55,2,Yes,Female,Other Degree,No,No,NorthEast,White
+insured,43,2,Yes,Male,Master's Degree,No,No,NorthEast,White
+insured,54,2,Yes,Male,Other Degree,Yes,No,South,White
+insured,54,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,42,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,47,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,31,2,Yes,Female,Bachelor Degree,No,No,South,White
+insured,31,5,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,31,5,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,50,1,Yes,Male,Bachelor Degree,No,No,West,White
+insured,48,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,Black
+insured,59,2,Yes,Female,No certificate,Yes,No,MidWest,White
+insured,27,2,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,26,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,55,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,27,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,26,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,34,5,Yes,Female,High School Diploma,Yes,No,West,White
+insured,43,2,Yes,Male,High School Diploma,No,No,South,White
+insured,22,3,Yes,Male,High School Diploma,No,No,West,White
+insured,57,1,Yes,Female,Bachelor Degree,No,No,South,White
+insured,48,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,49,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,56,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,38,4,No,Female,No certificate,No,No,NorthEast,White
+insured,45,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,20,4,Yes,Male,Other Degree,No,No,MidWest,White
+insured,18,4,Yes,Female,No certificate,No,No,MidWest,White
+insured,33,3,Yes,Male,High School Diploma,Yes,No,West,White
+insured,43,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,37,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,24,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,62,2,Yes,Female,High School Diploma,No,No,South,White
+insured,39,2,Yes,Male,High School Diploma,No,No,South,White
+insured,50,2,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,49,2,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,48,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,39,1,Yes,Male,PhD Degree,No,No,West,White
+insured,38,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,37,4,Yes,Female,No certificate,Yes,No,MidWest,White
+insured,31,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,33,1,Yes,Female,Bachelor Degree,No,No,West,White
+insured,41,3,Yes,Male,Other Degree,Yes,No,South,White
+insured,41,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,5,Yes,Female,Other Degree,Yes,No,South,White
+insured,53,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,37,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,37,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,35,2,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+insured,31,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,Black
+insured,34,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,Black
+insured,46,2,Yes,Female,Other Degree,Yes,No,South,White
+insured,46,2,Yes,Male,Master's Degree,Yes,No,South,White
+insured,51,1,Yes,Female,Other Degree,No,No,MidWest,White
+insured,45,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,53,2,Yes,Male,Bachelor Degree,No,No,West,White
+insured,45,2,Yes,Female,Bachelor Degree,No,No,South,White
+insured,41,2,Yes,Male,Other Degree,No,No,South,White
+insured,43,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,56,2,Yes,Female,Master's Degree,Yes,No,South,White
+insured,32,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,55,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,41,6,Yes,Male,High School Diploma,Yes,No,South,White
+insured,37,6,Yes,Female,High School Diploma,Yes,No,South,White
+insured,42,1,Yes,Male,High School Diploma,No,No,South,White
+insured,43,5,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,24,5,Yes,Male,Other Degree,No,No,MidWest,White
+insured,19,5,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,26,3,Yes,Female,High School Diploma,No,No,South,White
+insured,34,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,44,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,43,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,19,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,46,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,46,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,29,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,28,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,31,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,43,3,Yes,Female,Other Degree,Yes,No,South,White
+insured,24,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,51,1,Yes,Female,No certificate,No,No,NorthEast,White
+insured,26,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,54,2,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,55,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,49,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,41,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,53,2,Yes,Female,No certificate,Yes,No,NorthEast,White
+insured,28,6,Yes,Female,High School Diploma,No,No,West,White
+insured,48,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,59,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,36,5,Yes,Female,Other Degree,Yes,No,NorthEast,Black
+insured,40,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,29,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,35,5,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,61,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,50,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,48,4,Yes,Female,Bachelor Degree,Yes,No,South,Other
+insured,23,1,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,22,1,Yes,Female,Bachelor Degree,No,No,West,White
+insured,31,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,34,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,37,3,Yes,Male,Master's Degree,Yes,No,South,White
+insured,41,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,33,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,52,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,51,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,31,3,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,38,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,33,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,35,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,47,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,3,Yes,Female,High School Diploma,No,No,South,White
+insured,59,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,46,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,28,6,Yes,Female,High School Diploma,Yes,No,West,White
+insured,37,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,32,2,Yes,Male,Bachelor Degree,No,No,South,White
+insured,28,2,Yes,Male,High School Diploma,No,No,West,White
+insured,38,2,Yes,Female,High School Diploma,No,No,West,White
+insured,51,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,27,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,56,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,56,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,46,2,Yes,Female,High School Diploma,Yes,No,MidWest,Black
+insured,20,1,Yes,Female,High School Diploma,No,No,West,White
+insured,36,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,33,4,Yes,Female,No certificate,Yes,No,NorthEast,White
+insured,51,4,Yes,Male,Master's Degree,Yes,No,South,White
+insured,48,4,Yes,Female,Master's Degree,Yes,No,South,White
+insured,50,2,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,50,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,52,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,50,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,50,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,52,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,34,5,Yes,Male,High School Diploma,Yes,No,West,Other
+insured,35,5,Yes,Female,High School Diploma,Yes,No,West,Other
+insured,47,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,51,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,40,1,Yes,Male,Other Degree,No,No,West,White
+insured,53,3,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,60,1,Yes,Male,Master's Degree,No,No,South,White
+insured,36,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+insured,34,5,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,30,5,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,47,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,50,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,Other
+insured,58,2,Yes,Male,Master's Degree,No,No,South,White
+insured,43,3,Yes,Female,High School Diploma,Yes,No,West,Other
+insured,51,3,Yes,Male,High School Diploma,Yes,No,West,Other
+insured,38,2,Yes,Female,PhD Degree,Yes,No,South,White
+insured,40,1,Yes,Female,High School Diploma,No,No,South,White
+insured,26,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,23,2,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,39,3,Yes,Female,Bachelor Degree,Yes,No,NorthEast,Other
+insured,48,3,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,50,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,48,2,Yes,Female,High School Diploma,Yes,No,West,White
+insured,57,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,34,1,Yes,Female,Master's Degree,No,No,South,White
+insured,49,3,Yes,Female,Bachelor Degree,No,No,West,White
+insured,18,3,Yes,Male,High School Diploma,No,No,West,White
+insured,27,3,Yes,Female,High School Diploma,No,No,West,White
+insured,31,3,Yes,Female,Other Degree,Yes,No,MidWest,White
+insured,26,2,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,38,4,Yes,Female,Bachelor Degree,Yes,No,South,Other
+insured,41,4,Yes,Male,High School Diploma,Yes,No,South,Other
+insured,35,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,36,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,35,5,Yes,Female,Other Degree,No,No,NorthEast,White
+insured,44,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,42,4,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,28,1,Yes,Male,High School Diploma,No,No,South,White
+insured,32,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,28,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,32,2,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,35,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+insured,38,3,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,24,1,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,26,1,Yes,Female,Bachelor Degree,No,No,MidWest,Other
+insured,37,3,Yes,Male,Other Degree,No,No,West,Other
+insured,35,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,27,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,54,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,32,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,28,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,49,1,Yes,Female,High School Diploma,No,No,South,White
+insured,40,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,32,5,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,34,5,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,45,1,Yes,Female,Other Degree,No,No,South,White
+insured,37,2,Yes,Male,High School Diploma,No,No,West,White
+insured,28,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,58,2,Yes,Male,Other Degree,Yes,No,West,White
+insured,57,2,Yes,Female,Other Degree,Yes,No,West,White
+insured,27,3,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,28,3,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,40,3,Yes,Female,High School Diploma,No,No,MidWest,Other
+insured,62,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,28,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,36,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,34,4,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,42,3,Yes,Male,High School Diploma,No,No,MidWest,Other
+insured,18,3,Yes,Female,No certificate,No,No,MidWest,White
+insured,48,3,Yes,Male,Other Degree,Yes,No,MidWest,White
+insured,49,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+insured,43,1,Yes,Female,Master's Degree,No,No,NorthEast,White
+insured,53,3,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,23,3,Yes,Male,High School Diploma,No,No,West,White
+insured,50,3,Yes,Female,Master's Degree,Yes,No,South,White
+insured,46,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,50,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,50,3,Yes,Female,Other Degree,No,No,West,White
+insured,24,3,Yes,Female,High School Diploma,No,No,West,White
+insured,46,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,42,4,Yes,Male,Other Degree,Yes,No,NorthEast,Black
+insured,42,4,Yes,Female,Bachelor Degree,Yes,No,NorthEast,Black
+insured,42,3,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,35,3,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,21,3,Yes,Female,High School Diploma,No,No,West,White
+insured,35,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,46,1,Yes,Male,Master's Degree,No,No,NorthEast,White
+insured,51,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,55,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,40,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,43,2,Yes,Female,Bachelor Degree,No,No,MidWest,White
+insured,42,1,Yes,Male,Master's Degree,No,No,MidWest,White
+insured,34,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,29,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,30,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,38,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,40,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,39,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+insured,44,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,24,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,22,5,Yes,Male,Other Degree,No,No,NorthEast,White
+insured,46,4,Yes,Female,High School Diploma,Yes,No,West,White
+insured,57,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,19,4,Yes,Male,High School Diploma,No,No,West,White
+insured,55,3,Yes,Male,Bachelor Degree,Yes,No,West,White
+insured,45,3,Yes,Female,Master's Degree,Yes,No,West,White
+insured,32,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,29,3,Yes,Female,High School Diploma,Yes,No,South,White
+insured,47,2,Yes,Female,Other Degree,No,No,MidWest,White
+insured,28,3,Yes,Male,High School Diploma,Yes,No,NorthEast,Other
+insured,42,3,Yes,Male,Master's Degree,Yes,No,West,White
+insured,42,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,39,4,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,50,1,Yes,Female,Master's Degree,No,No,West,White
+insured,21,4,Yes,Male,High School Diploma,No,No,West,White
+insured,52,4,Yes,Male,Master's Degree,Yes,No,West,Other
+insured,52,4,Yes,Female,High School Diploma,Yes,No,West,Other
+insured,32,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+insured,34,3,Yes,Female,Other Degree,No,No,South,White
+insured,34,3,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,62,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,29,1,Yes,Male,Bachelor Degree,No,No,West,White
+insured,54,4,Yes,Male,Master's Degree,Yes,No,MidWest,White
+insured,49,4,Yes,Female,Master's Degree,Yes,No,MidWest,White
+insured,51,2,Yes,Male,Other Degree,Yes,No,NorthEast,White
+insured,49,2,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+not insured,27,1,Yes,Female,Master's Degree,No,No,MidWest,Black
+insured,54,3,Yes,Female,Bachelor Degree,Yes,No,West,White
+insured,20,3,Yes,Female,High School Diploma,No,No,West,White
+insured,28,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,39,4,Yes,Male,High School Diploma,No,No,South,White
+insured,50,4,Yes,Male,High School Diploma,Yes,No,West,White
+insured,59,2,Yes,Female,No certificate,Yes,No,West,White
+insured,39,3,Yes,Female,Other Degree,No,No,West,White
+insured,47,5,Yes,Male,Master's Degree,Yes,No,NorthEast,White
+insured,40,4,Yes,Male,High School Diploma,Yes,No,South,White
+insured,21,1,Yes,Male,High School Diploma,No,No,West,White
+insured,23,1,Yes,Male,High School Diploma,No,No,West,White
+insured,37,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,34,3,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,32,3,Yes,Female,Other Degree,Yes,No,South,White
+insured,21,2,Yes,Female,Other Degree,Yes,No,West,White
+insured,37,5,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+insured,49,3,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+insured,24,3,Yes,Female,High School Diploma,No,No,NorthEast,White
+insured,57,3,Yes,Female,PhD Degree,Yes,No,South,White
+insured,22,1,Yes,Female,High School Diploma,No,No,West,White
+insured,46,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,45,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,38,3,Yes,Male,Bachelor Degree,No,No,MidWest,White
+insured,41,2,Yes,Male,High School Diploma,No,No,South,White
+insured,38,1,Yes,Female,Master's Degree,No,No,NorthEast,White
+insured,34,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,Black
+insured,30,4,Yes,Female,Bachelor Degree,Yes,No,NorthEast,Black
+insured,41,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,47,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,19,3,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,55,3,Yes,Male,High School Diploma,Yes,No,South,White
+insured,39,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,44,4,Yes,Female,No certificate,Yes,No,West,Other
+insured,21,4,Yes,Female,High School Diploma,No,No,West,Other
+insured,24,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,44,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,25,4,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,21,1,Yes,Female,High School Diploma,No,No,MidWest,White
+insured,37,5,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,39,1,Yes,Female,Bachelor Degree,No,No,South,White
+insured,38,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,61,2,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+insured,59,2,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,26,1,Yes,Female,Other Degree,No,No,West,White
+insured,41,4,Yes,Female,High School Diploma,Yes,No,South,White
+insured,27,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,26,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,32,5,Yes,Male,High School Diploma,Yes,No,South,White
+insured,52,2,Yes,Female,Other Degree,Yes,No,West,White
+insured,29,4,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,27,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,34,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,32,4,Yes,Female,High School Diploma,No,No,South,White
+not insured,33,11,Yes,Male,No certificate,Yes,No,West,White
+not insured,21,5,Yes,Male,High School Diploma,No,No,South,Black
+not insured,24,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+not insured,23,6,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,24,1,Yes,Male,No certificate,No,No,West,White
+not insured,38,6,Yes,Male,No certificate,Yes,Yes,West,White
+not insured,59,2,Yes,Male,No certificate,Yes,No,West,White
+not insured,30,3,Yes,Female,No certificate,No,No,West,White
+not insured,25,3,Yes,Male,No certificate,No,No,West,White
+not insured,35,2,Yes,Male,High School Diploma,Yes,No,West,White
+insured,32,2,Yes,Female,High School Diploma,Yes,Yes,West,White
+not insured,22,2,Yes,Male,No certificate,No,No,MidWest,White
+not insured,26,4,Yes,Male,No certificate,Yes,No,West,Black
+not insured,47,1,Yes,Female,High School Diploma,No,No,South,Other
+not insured,46,7,No,Male,High School Diploma,Yes,No,West,Black
+not insured,51,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,23,4,Yes,Male,High School Diploma,No,No,South,White
+insured,47,2,Yes,Female,Bachelor Degree,No,Yes,NorthEast,White
+not insured,27,1,Yes,Female,High School Diploma,No,No,South,White
+not insured,22,3,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,37,5,Yes,Female,High School Diploma,No,No,South,White
+not insured,25,1,Yes,Female,No certificate,No,No,South,Black
+not insured,30,6,Yes,Male,No certificate,Yes,No,West,White
+not insured,44,2,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,36,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+insured,36,4,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,53,6,No,Male,No certificate,Yes,No,NorthEast,White
+not insured,45,6,Yes,Female,No certificate,Yes,No,NorthEast,White
+not insured,26,4,Yes,Female,High School Diploma,Yes,No,West,Black
+not insured,26,4,Yes,Male,High School Diploma,Yes,No,West,Black
+not insured,50,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,22,2,Yes,Female,High School Diploma,Yes,No,South,Other
+not insured,38,4,Yes,Male,No certificate,No,No,West,White
+not insured,56,1,Yes,Male,No certificate,No,No,South,Black
+insured,47,4,Yes,Female,No certificate,Yes,Yes,West,White
+not insured,40,4,Yes,Male,No certificate,Yes,No,West,White
+not insured,37,2,Yes,Female,High School Diploma,No,No,West,White
+not insured,28,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,23,3,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,37,5,Yes,Female,No certificate,No,No,West,White
+not insured,29,5,Yes,Male,High School Diploma,No,No,West,White
+insured,59,2,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,44,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,37,2,Yes,Male,High School Diploma,No,Yes,West,White
+not insured,38,5,No,Male,High School Diploma,Yes,No,MidWest,White
+not insured,19,1,Yes,Female,High School Diploma,No,No,South,Other
+not insured,44,2,Yes,Female,High School Diploma,No,No,West,White
+not insured,26,3,Yes,Male,No certificate,No,No,South,Black
+not insured,47,3,Yes,Female,Other Degree,No,No,South,White
+not insured,36,3,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+not insured,27,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+insured,58,1,Yes,Female,High School Diploma,No,Yes,South,White
+not insured,34,3,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,40,5,Yes,Female,No certificate,No,Yes,West,White
+not insured,19,5,Yes,Male,High School Diploma,No,No,West,Black
+not insured,24,5,Yes,Male,No certificate,No,No,South,White
+not insured,48,3,Yes,Male,Bachelor Degree,No,No,West,White
+not insured,57,2,Yes,Female,High School Diploma,Yes,No,MidWest,Other
+not insured,40,3,Yes,Female,High School Diploma,No,Yes,NorthEast,White
+not insured,42,3,Yes,Male,Bachelor Degree,No,Yes,NorthEast,White
+not insured,22,14,Yes,Female,No certificate,No,No,MidWest,White
+not insured,37,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,24,4,Yes,Male,High School Diploma,No,No,West,White
+not insured,23,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,24,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,31,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,24,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,27,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,18,4,Yes,Male,No certificate,No,No,South,Black
+not insured,24,2,Yes,Female,High School Diploma,Yes,No,West,Other
+not insured,29,2,Yes,Female,No certificate,No,No,NorthEast,Black
+not insured,42,2,No,Male,No certificate,No,No,NorthEast,Black
+not insured,21,3,Yes,Male,No certificate,Yes,No,NorthEast,Black
+not insured,31,5,No,Female,High School Diploma,No,No,West,White
+not insured,28,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,27,4,Yes,Female,High School Diploma,No,No,South,Black
+not insured,22,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,38,5,No,Male,No certificate,Yes,No,NorthEast,White
+not insured,23,3,Yes,Male,No certificate,No,No,West,White
+not insured,45,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,35,3,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+not insured,34,7,Yes,Male,Master's Degree,Yes,No,South,Black
+not insured,37,2,Yes,Female,High School Diploma,No,No,West,White
+not insured,51,1,Yes,Male,High School Diploma,No,No,South,White
+insured,46,3,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,30,4,Yes,Male,High School Diploma,No,No,West,White
+not insured,22,4,Yes,Female,High School Diploma,No,No,West,White
+not insured,36,4,Yes,Male,Bachelor Degree,Yes,Yes,West,White
+not insured,19,4,Yes,Female,No certificate,No,No,NorthEast,Black
+insured,58,6,Yes,Male,No certificate,Yes,Yes,West,White
+not insured,33,1,Yes,Male,High School Diploma,No,No,West,Black
+not insured,29,5,Yes,Male,High School Diploma,No,No,South,Black
+not insured,33,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+not insured,37,9,Yes,Male,No certificate,Yes,No,West,White
+not insured,39,6,Yes,Male,High School Diploma,No,No,South,White
+not insured,60,2,No,Female,No certificate,No,No,South,Black
+not insured,23,3,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,49,3,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,49,5,Yes,Male,High School Diploma,Yes,Yes,South,White
+insured,45,5,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,35,2,Yes,Male,Bachelor Degree,No,No,West,White
+insured,58,2,Yes,Male,Bachelor Degree,No,Yes,NorthEast,White
+insured,51,2,Yes,Female,Other Degree,No,Yes,NorthEast,White
+not insured,38,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,30,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,34,1,No,Female,High School Diploma,No,No,West,White
+insured,58,1,Yes,Male,No certificate,No,Yes,MidWest,White
+not insured,49,4,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,47,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+not insured,38,3,Yes,Male,Bachelor Degree,No,Yes,West,White
+not insured,20,2,Yes,Male,High School Diploma,Yes,No,West,Black
+not insured,54,5,Yes,Female,High School Diploma,No,No,South,White
+not insured,24,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,47,4,Yes,Male,High School Diploma,Yes,No,South,Black
+not insured,33,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,38,1,Yes,Female,Bachelor Degree,No,Yes,West,White
+not insured,61,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,49,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,24,5,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,57,1,Yes,Male,High School Diploma,No,Yes,West,White
+insured,62,3,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,58,3,Yes,Female,No certificate,Yes,No,South,White
+not insured,33,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,36,3,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,25,4,Yes,Male,No certificate,Yes,No,South,Black
+not insured,25,4,Yes,Female,No certificate,Yes,No,South,Black
+not insured,31,2,Yes,Male,Bachelor Degree,Yes,No,West,White
+not insured,24,3,Yes,Male,No certificate,Yes,No,West,White
+not insured,39,2,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,18,5,Yes,Female,No certificate,No,No,NorthEast,Black
+not insured,48,5,Yes,Male,Bachelor Degree,Yes,No,West,Black
+not insured,34,5,Yes,Female,No certificate,Yes,No,West,Black
+not insured,28,2,No,Male,High School Diploma,No,No,West,White
+not insured,29,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,35,3,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,47,3,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,29,3,Yes,Male,High School Diploma,No,Yes,MidWest,White
+not insured,39,3,Yes,Male,High School Diploma,No,No,West,White
+not insured,31,3,Yes,Male,High School Diploma,No,No,NorthEast,Black
+insured,48,4,No,Female,High School Diploma,Yes,Yes,South,White
+not insured,48,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,36,2,Yes,Male,Bachelor Degree,Yes,No,West,White
+not insured,27,1,Yes,Male,Bachelor Degree,No,Yes,West,White
+insured,41,1,Yes,Female,No certificate,No,Yes,West,White
+not insured,36,4,Yes,Male,No certificate,Yes,No,West,White
+insured,52,1,Yes,Male,High School Diploma,No,Yes,South,White
+not insured,46,5,No,Male,High School Diploma,Yes,No,South,White
+not insured,38,5,Yes,Female,No certificate,Yes,No,South,White
+not insured,38,5,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+not insured,35,5,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,51,2,Yes,Female,High School Diploma,No,No,South,White
+not insured,29,2,Yes,Female,No certificate,No,No,South,White
+not insured,23,2,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+not insured,49,1,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,36,7,Yes,Male,High School Diploma,Yes,Yes,West,White
+insured,32,7,Yes,Female,No certificate,Yes,Yes,West,White
+not insured,37,2,Yes,Male,High School Diploma,No,Yes,MidWest,White
+not insured,19,4,Yes,Female,No certificate,No,No,MidWest,Black
+not insured,23,4,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,32,1,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+not insured,21,7,Yes,Female,High School Diploma,No,No,South,Black
+insured,44,4,Yes,Female,High School Diploma,Yes,Yes,NorthEast,White
+not insured,35,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,33,2,Yes,Female,Other Degree,Yes,No,NorthEast,White
+insured,52,4,Yes,Male,Bachelor Degree,Yes,Yes,NorthEast,Black
+not insured,27,4,Yes,Male,No certificate,No,No,West,White
+not insured,47,2,Yes,Female,No certificate,No,No,NorthEast,White
+not insured,42,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,33,2,Yes,Female,High School Diploma,No,No,West,White
+not insured,25,5,Yes,Male,Bachelor Degree,No,Yes,South,Black
+not insured,39,4,Yes,Male,High School Diploma,Yes,Yes,NorthEast,Black
+not insured,26,2,Yes,Male,Other Degree,Yes,No,West,Black
+not insured,40,3,Yes,Male,High School Diploma,Yes,No,MidWest,Black
+not insured,51,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,33,2,Yes,Male,Other Degree,No,No,MidWest,Black
+not insured,37,2,Yes,Male,High School Diploma,No,No,MidWest,Black
+not insured,30,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,27,3,Yes,Male,High School Diploma,No,No,West,White
+not insured,39,4,Yes,Male,Other Degree,Yes,No,South,White
+not insured,36,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,18,1,Yes,Female,No certificate,No,No,South,Black
+not insured,45,1,Yes,Female,High School Diploma,No,No,West,White
+not insured,44,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,38,7,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,21,3,Yes,Male,High School Diploma,No,No,West,White
+not insured,38,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+not insured,21,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,24,4,Yes,Male,High School Diploma,Yes,No,South,Black
+not insured,31,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,62,6,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,53,2,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,30,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,56,2,Yes,Female,No certificate,No,No,NorthEast,Other
+not insured,28,2,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+not insured,32,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,34,1,Yes,Female,Other Degree,No,No,MidWest,White
+not insured,60,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+insured,53,3,Yes,Male,High School Diploma,No,Yes,West,White
+not insured,36,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,26,3,Yes,Female,High School Diploma,No,No,NorthEast,Black
+not insured,46,1,Yes,Female,Bachelor Degree,No,No,West,White
+not insured,34,3,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,34,3,Yes,Male,No certificate,No,No,South,White
+not insured,25,2,Yes,Male,No certificate,No,No,NorthEast,Black
+not insured,41,4,No,Male,High School Diploma,No,No,MidWest,Black
+not insured,27,1,Yes,Male,No certificate,No,No,West,White
+not insured,37,8,Yes,Male,No certificate,Yes,No,South,White
+not insured,38,8,No,Female,No certificate,Yes,No,South,White
+not insured,32,2,Yes,Male,Other Degree,No,No,NorthEast,White
+not insured,21,3,No,Male,High School Diploma,No,No,NorthEast,White
+not insured,21,3,Yes,Female,High School Diploma,No,No,South,Black
+not insured,36,5,Yes,Female,Other Degree,No,No,South,Black
+not insured,28,5,Yes,Female,High School Diploma,No,No,South,Black
+not insured,33,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,26,2,No,Male,No certificate,Yes,No,South,Black
+not insured,39,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,31,5,Yes,Female,Bachelor Degree,No,No,MidWest,White
+not insured,51,1,Yes,Female,High School Diploma,No,No,West,White
+not insured,41,7,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,25,4,Yes,Male,High School Diploma,No,No,West,Black
+not insured,23,4,Yes,Male,No certificate,No,No,West,White
+insured,59,3,No,Female,No certificate,No,Yes,South,White
+not insured,26,2,Yes,Male,High School Diploma,Yes,No,MidWest,Black
+insured,24,2,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,23,2,Yes,Female,High School Diploma,No,No,West,Black
+not insured,23,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,20,5,Yes,Female,Other Degree,No,No,MidWest,Black
+insured,44,1,Yes,Female,Bachelor Degree,No,Yes,West,White
+not insured,51,2,Yes,Female,No certificate,Yes,No,South,White
+not insured,35,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,30,3,Yes,Male,No certificate,Yes,No,West,White
+not insured,32,3,Yes,Female,High School Diploma,Yes,No,West,White
+insured,59,2,Yes,Male,Bachelor Degree,Yes,Yes,NorthEast,White
+not insured,48,2,Yes,Female,No certificate,Yes,No,NorthEast,Other
+not insured,21,7,Yes,Male,High School Diploma,No,No,West,White
+not insured,47,5,Yes,Male,No certificate,Yes,Yes,West,White
+insured,49,5,Yes,Female,High School Diploma,Yes,Yes,West,White
+not insured,56,2,Yes,Female,High School Diploma,Yes,No,South,Other
+not insured,53,2,Yes,Female,No certificate,No,No,South,White
+not insured,20,2,Yes,Male,High School Diploma,No,No,MidWest,Black
+insured,62,2,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,58,2,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,29,1,Yes,Male,High School Diploma,No,Yes,West,White
+not insured,54,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,39,5,Yes,Male,High School Diploma,Yes,No,MidWest,Black
+not insured,28,4,Yes,Female,No certificate,Yes,No,NorthEast,White
+not insured,24,4,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,29,4,Yes,Male,No certificate,Yes,No,NorthEast,White
+insured,48,4,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,54,4,Yes,Female,No certificate,Yes,Yes,South,White
+not insured,22,4,Yes,Female,High School Diploma,No,No,South,White
+insured,52,6,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+not insured,52,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,40,6,Yes,Male,No certificate,Yes,Yes,NorthEast,White
+not insured,42,2,Yes,Female,High School Diploma,No,No,MidWest,Black
+not insured,41,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,38,1,Yes,Female,Bachelor Degree,No,No,South,Black
+not insured,59,1,Yes,Female,No certificate,No,No,South,Black
+not insured,30,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+not insured,21,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,21,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,45,4,Yes,Female,No certificate,Yes,No,South,White
+not insured,31,4,Yes,Female,High School Diploma,No,No,South,White
+not insured,27,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,25,4,Yes,Female,No certificate,Yes,Yes,South,Black
+not insured,52,2,Yes,Female,High School Diploma,No,No,South,Black
+not insured,26,2,Yes,Male,High School Diploma,Yes,No,South,Black
+not insured,59,1,Yes,Male,No certificate,No,No,South,White
+not insured,37,4,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,32,4,Yes,Female,No certificate,Yes,No,West,White
+not insured,29,2,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,25,2,Yes,Female,High School Diploma,Yes,No,MidWest,Black
+not insured,36,7,No,Male,No certificate,Yes,No,South,Other
+not insured,25,5,Yes,Female,No certificate,No,No,South,Black
+not insured,26,5,Yes,Male,No certificate,No,No,South,Black
+not insured,52,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,38,5,Yes,Male,Other Degree,Yes,No,MidWest,White
+not insured,37,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,33,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,25,2,Yes,Male,High School Diploma,Yes,Yes,MidWest,Black
+not insured,20,1,No,Female,No certificate,No,No,South,White
+not insured,22,3,Yes,Male,High School Diploma,No,No,West,Black
+not insured,48,2,Yes,Female,High School Diploma,No,No,South,White
+not insured,39,5,Yes,Female,High School Diploma,No,No,West,White
+not insured,18,5,Yes,Male,No certificate,No,No,West,White
+not insured,21,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,37,2,Yes,Male,No certificate,No,No,West,White
+not insured,38,4,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,38,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,42,5,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,37,5,Yes,Male,No certificate,No,Yes,MidWest,White
+not insured,29,1,Yes,Female,High School Diploma,No,No,South,Black
+not insured,29,3,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,39,4,Yes,Female,No certificate,Yes,No,West,White
+not insured,42,4,Yes,Male,No certificate,Yes,Yes,West,White
+insured,50,5,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,41,3,Yes,Female,Bachelor Degree,No,Yes,NorthEast,Black
+insured,62,2,Yes,Female,High School Diploma,Yes,Yes,NorthEast,White
+not insured,60,2,Yes,Male,No certificate,Yes,Yes,NorthEast,White
+not insured,39,3,Yes,Female,No certificate,No,No,South,Black
+not insured,20,1,Yes,Female,High School Diploma,No,No,South,Black
+not insured,33,5,Yes,Female,No certificate,No,No,MidWest,White
+not insured,28,6,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,19,6,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,21,5,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,39,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,21,4,Yes,Female,High School Diploma,No,No,South,White
+not insured,23,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,28,2,Yes,Male,Bachelor Degree,No,No,MidWest,White
+not insured,44,2,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,42,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,40,3,No,Male,High School Diploma,Yes,No,South,White
+not insured,40,3,No,Female,High School Diploma,Yes,No,South,White
+not insured,42,2,Yes,Male,High School Diploma,Yes,No,MidWest,Black
+not insured,41,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,Black
+not insured,38,6,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,19,6,Yes,Female,High School Diploma,No,No,South,White
+not insured,47,2,Yes,Male,No certificate,Yes,No,South,White
+not insured,42,2,No,Female,No certificate,Yes,No,South,White
+not insured,36,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,34,6,Yes,Male,High School Diploma,Yes,Yes,South,Black
+not insured,31,6,Yes,Female,High School Diploma,Yes,Yes,South,Black
+not insured,40,7,No,Male,No certificate,Yes,No,West,White
+not insured,41,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,32,1,Yes,Male,High School Diploma,No,No,West,Black
+not insured,37,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,23,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,35,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,43,2,Yes,Male,Bachelor Degree,Yes,Yes,South,White
+not insured,41,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,37,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,45,3,Yes,Female,High School Diploma,No,No,MidWest,Black
+not insured,47,2,Yes,Female,High School Diploma,Yes,No,South,Black
+not insured,40,1,Yes,Male,High School Diploma,No,Yes,West,White
+not insured,31,4,Yes,Female,High School Diploma,No,No,South,White
+not insured,36,1,Yes,Female,No certificate,No,No,West,White
+not insured,54,2,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,20,2,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,34,5,Yes,Male,No certificate,Yes,Yes,MidWest,White
+not insured,29,5,Yes,Female,No certificate,Yes,No,MidWest,White
+not insured,36,4,Yes,Female,High School Diploma,No,Yes,South,White
+not insured,54,4,Yes,Female,No certificate,Yes,No,South,White
+not insured,43,2,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,40,6,Yes,Male,No certificate,Yes,No,West,White
+not insured,31,4,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,31,5,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,27,1,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,26,2,Yes,Female,Bachelor Degree,No,No,South,White
+not insured,34,4,Yes,Male,High School Diploma,No,No,West,White
+not insured,47,3,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,26,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,30,1,Yes,Female,High School Diploma,No,No,South,White
+not insured,36,3,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,26,4,Yes,Male,High School Diploma,No,No,West,White
+not insured,28,4,Yes,Male,High School Diploma,No,No,West,White
+not insured,29,4,Yes,Male,High School Diploma,No,No,West,White
+not insured,19,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,45,2,Yes,Male,No certificate,Yes,No,South,White
+not insured,35,5,Yes,Male,No certificate,Yes,No,MidWest,White
+not insured,52,3,Yes,Female,Other Degree,Yes,No,NorthEast,White
+not insured,200,3,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,28,1,Yes,Female,High School Diploma,No,No,South,Other
+not insured,38,3,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+not insured,31,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,35,5,Yes,Male,No certificate,Yes,No,South,White
+not insured,29,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,58,4,No,Female,No certificate,Yes,No,South,White
+not insured,31,3,Yes,Female,High School Diploma,No,No,West,White
+insured,48,2,No,Male,No certificate,Yes,Yes,West,White
+insured,56,2,No,Female,No certificate,Yes,Yes,West,White
+not insured,28,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+not insured,25,3,Yes,Male,High School Diploma,Yes,No,NorthEast,Black
+not insured,22,1,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,61,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,22,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,37,3,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,25,1,Yes,Male,Bachelor Degree,No,No,South,White
+not insured,25,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,38,2,Yes,Male,Other Degree,No,No,MidWest,White
+insured,45,9,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,53,2,No,Male,No certificate,Yes,No,South,White
+not insured,29,3,No,Male,No certificate,Yes,No,South,White
+not insured,31,2,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+not insured,49,4,No,Male,Other Degree,Yes,No,NorthEast,White
+not insured,45,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,54,2,Yes,Male,High School Diploma,No,Yes,West,White
+not insured,35,2,Yes,Male,High School Diploma,No,No,West,Other
+not insured,46,1,No,Male,High School Diploma,No,No,West,White
+not insured,29,2,Yes,Female,No certificate,No,No,West,White
+not insured,38,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,40,2,Yes,Male,No certificate,No,Yes,NorthEast,Black
+not insured,39,2,Yes,Male,High School Diploma,No,Yes,MidWest,White
+insured,30,2,Yes,Female,High School Diploma,No,Yes,MidWest,White
+not insured,35,3,Yes,Male,No certificate,Yes,No,West,Other
+not insured,35,4,Yes,Male,No certificate,No,No,South,White
+not insured,57,7,Yes,Male,No certificate,Yes,No,South,White
+not insured,44,7,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,22,7,Yes,Male,High School Diploma,No,No,South,White
+not insured,19,7,Yes,Female,High School Diploma,No,No,South,White
+not insured,29,3,Yes,Male,Other Degree,No,No,South,White
+not insured,22,4,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,24,1,Yes,Male,High School Diploma,No,No,West,White
+insured,37,5,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,39,1,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,44,1,Yes,Male,Bachelor Degree,No,Yes,NorthEast,White
+not insured,23,2,Yes,Male,High School Diploma,No,No,NorthEast,White
+insured,27,4,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,30,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,29,1,Yes,Female,High School Diploma,No,No,MidWest,Black
+not insured,19,6,Yes,Male,High School Diploma,No,No,West,Other
+not insured,49,2,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+not insured,22,5,Yes,Female,High School Diploma,No,No,South,White
+not insured,20,5,Yes,Female,High School Diploma,No,No,South,Other
+not insured,37,5,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+not insured,46,7,Yes,Female,High School Diploma,No,No,South,Black
+not insured,26,5,No,Female,High School Diploma,Yes,No,South,Black
+not insured,29,5,No,Male,High School Diploma,Yes,No,South,Black
+insured,58,2,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,32,1,No,Male,No certificate,Yes,No,South,White
+not insured,25,8,Yes,Male,High School Diploma,No,No,West,Other
+not insured,22,8,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,26,8,Yes,Male,High School Diploma,Yes,No,West,Other
+not insured,20,1,Yes,Male,No certificate,No,No,West,Other
+insured,46,2,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,57,2,Yes,Male,Bachelor Degree,Yes,No,South,White
+not insured,56,2,Yes,Female,No certificate,Yes,No,South,Other
+not insured,27,4,Yes,Male,High School Diploma,No,No,South,White
+not insured,18,1,No,Male,No certificate,No,No,South,Other
+not insured,43,5,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+insured,28,5,Yes,Female,No certificate,Yes,Yes,NorthEast,White
+not insured,21,4,Yes,Male,No certificate,No,No,NorthEast,White
+not insured,20,2,Yes,Female,High School Diploma,No,No,NorthEast,Other
+not insured,55,3,Yes,Male,No certificate,No,No,South,White
+not insured,43,4,Yes,Female,No certificate,Yes,No,South,White
+not insured,46,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,29,4,No,Female,High School Diploma,No,No,West,White
+not insured,40,2,Yes,Male,Bachelor Degree,No,No,West,White
+not insured,48,3,Yes,Male,High School Diploma,No,No,MidWest,Black
+not insured,44,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,22,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,23,1,Yes,Male,High School Diploma,No,No,South,Black
+insured,51,1,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,31,5,Yes,Male,No certificate,No,No,South,Black
+not insured,47,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,32,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,60,4,Yes,Male,No certificate,Yes,No,NorthEast,White
+not insured,50,4,Yes,Male,Bachelor Degree,Yes,No,West,White
+not insured,51,4,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,56,5,Yes,Female,High School Diploma,Yes,No,South,Black
+not insured,46,4,No,Male,No certificate,Yes,No,South,White
+not insured,33,3,No,Male,High School Diploma,No,Yes,South,White
+not insured,22,3,Yes,Male,No certificate,No,No,NorthEast,White
+not insured,24,4,Yes,Female,No certificate,No,No,NorthEast,White
+not insured,24,4,Yes,Male,Other Degree,No,No,South,White
+not insured,26,5,No,Male,No certificate,No,No,West,Other
+not insured,56,5,Yes,Male,High School Diploma,Yes,No,MidWest,Black
+not insured,26,5,Yes,Male,High School Diploma,No,No,MidWest,Black
+not insured,43,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,47,2,Yes,Male,Bachelor Degree,No,No,West,White
+not insured,50,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,56,1,Yes,Female,High School Diploma,No,Yes,MidWest,Black
+not insured,36,3,Yes,Male,High School Diploma,No,Yes,West,White
+not insured,26,9,No,Female,No certificate,Yes,No,South,Other
+not insured,28,9,No,Male,No certificate,Yes,No,South,White
+not insured,28,9,No,Male,No certificate,No,No,South,White
+not insured,25,1,Yes,Female,High School Diploma,No,No,NorthEast,Other
+not insured,18,5,Yes,Male,No certificate,No,No,MidWest,Black
+not insured,21,4,No,Male,No certificate,No,No,MidWest,Black
+not insured,29,2,Yes,Female,High School Diploma,No,No,South,White
+not insured,19,3,Yes,Female,High School Diploma,No,No,South,Other
+not insured,39,6,No,Male,No certificate,Yes,No,West,White
+not insured,49,4,Yes,Male,No certificate,Yes,No,NorthEast,White
+not insured,18,4,Yes,Male,No certificate,No,No,NorthEast,Other
+not insured,49,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,57,6,Yes,Male,No certificate,Yes,No,South,White
+not insured,36,2,Yes,Female,Other Degree,No,No,South,White
+not insured,30,2,Yes,Male,High School Diploma,No,No,South,Black
+not insured,40,5,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,38,5,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,28,1,Yes,Female,High School Diploma,No,No,South,Black
+not insured,28,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,60,1,Yes,Female,High School Diploma,No,No,MidWest,Black
+not insured,26,1,No,Male,High School Diploma,No,No,NorthEast,Other
+not insured,46,2,Yes,Female,High School Diploma,No,No,South,Black
+not insured,19,2,Yes,Female,High School Diploma,No,No,South,Black
+not insured,26,4,Yes,Male,No certificate,No,No,South,Black
+not insured,34,1,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,23,3,Yes,Male,High School Diploma,No,No,South,Black
+not insured,25,3,Yes,Male,High School Diploma,No,No,MidWest,Other
+not insured,54,4,Yes,Female,Bachelor Degree,Yes,No,West,White
+not insured,22,1,Yes,Male,High School Diploma,No,Yes,NorthEast,Black
+not insured,19,1,Yes,Male,Other Degree,No,No,MidWest,Other
+not insured,40,4,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,42,6,Yes,Male,No certificate,Yes,No,South,White
+not insured,24,4,Yes,Female,High School Diploma,No,No,West,White
+not insured,40,4,Yes,Male,No certificate,Yes,No,West,White
+not insured,35,4,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,35,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+not insured,33,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,33,4,Yes,Female,High School Diploma,Yes,Yes,South,White
+insured,45,5,Yes,Male,No certificate,No,Yes,NorthEast,White
+not insured,28,3,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,46,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,26,5,Yes,Female,No certificate,Yes,No,MidWest,Other
+not insured,31,3,Yes,Female,Bachelor Degree,No,No,MidWest,Black
+not insured,32,3,Yes,Male,No certificate,Yes,Yes,West,White
+not insured,36,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,42,1,Yes,Female,High School Diploma,No,Yes,West,White
+not insured,27,2,Yes,Female,Bachelor Degree,No,No,NorthEast,Black
+not insured,23,2,No,Male,No certificate,No,No,West,White
+not insured,60,3,Yes,Male,High School Diploma,Yes,Yes,South,Black
+not insured,27,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,51,9,No,Female,High School Diploma,No,No,South,Black
+not insured,32,9,Yes,Male,High School Diploma,No,No,South,Black
+not insured,32,3,No,Male,No certificate,No,No,South,White
+not insured,47,2,Yes,Male,High School Diploma,Yes,No,South,Black
+not insured,42,6,Yes,Male,No certificate,Yes,No,West,White
+not insured,35,6,Yes,Female,No certificate,Yes,No,West,White
+not insured,40,1,Yes,Female,No certificate,No,No,NorthEast,Black
+not insured,29,2,Yes,Male,No certificate,No,No,West,White
+not insured,41,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,52,1,Yes,Female,High School Diploma,No,Yes,West,White
+not insured,47,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+not insured,38,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,Black
+not insured,26,4,Yes,Female,High School Diploma,Yes,No,NorthEast,Black
+not insured,20,4,Yes,Female,High School Diploma,No,No,MidWest,Other
+not insured,30,5,Yes,Female,High School Diploma,No,No,South,Black
+not insured,42,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,34,4,Yes,Female,Other Degree,Yes,No,South,White
+not insured,30,6,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,30,4,Yes,Male,Bachelor Degree,No,No,West,White
+not insured,25,4,Yes,Female,High School Diploma,No,No,West,Other
+not insured,56,2,Yes,Male,No certificate,Yes,No,MidWest,White
+not insured,22,4,Yes,Male,High School Diploma,No,No,South,Black
+not insured,34,5,Yes,Male,No certificate,No,No,South,Black
+not insured,48,2,Yes,Male,Other Degree,Yes,No,South,White
+not insured,26,1,Yes,Male,High School Diploma,No,No,South,Other
+not insured,23,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,54,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,27,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,38,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,20,4,Yes,Male,High School Diploma,No,No,MidWest,Other
+not insured,44,3,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,43,5,No,Female,No certificate,Yes,No,South,White
+insured,50,4,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,30,1,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,58,1,Yes,Female,High School Diploma,No,No,South,White
+not insured,33,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,44,5,Yes,Female,No certificate,No,No,West,White
+not insured,18,1,Yes,Female,High School Diploma,No,No,South,Other
+not insured,43,5,Yes,Male,No certificate,No,Yes,South,White
+not insured,40,3,Yes,Male,Bachelor Degree,Yes,No,South,White
+not insured,41,3,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,32,4,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,24,4,Yes,Male,No certificate,Yes,No,NorthEast,White
+not insured,28,3,No,Male,No certificate,No,No,West,White
+not insured,38,1,Yes,Male,No certificate,No,No,West,White
+not insured,51,1,Yes,Female,Bachelor Degree,No,No,South,White
+not insured,33,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,25,3,Yes,Female,High School Diploma,Yes,No,South,Other
+not insured,48,1,Yes,Male,No certificate,No,No,West,White
+not insured,34,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,20,3,Yes,Male,High School Diploma,No,Yes,South,Other
+not insured,48,4,No,Male,No certificate,Yes,No,South,White
+not insured,30,5,No,Male,No certificate,Yes,No,South,White
+insured,48,2,No,Female,High School Diploma,Yes,Yes,South,Black
+not insured,47,6,Yes,Male,No certificate,Yes,Yes,MidWest,White
+not insured,54,4,Yes,Female,High School Diploma,Yes,Yes,West,White
+insured,52,4,No,Male,High School Diploma,Yes,Yes,West,White
+not insured,24,5,No,Male,High School Diploma,No,No,West,White
+not insured,21,3,Yes,Male,No certificate,No,No,MidWest,White
+not insured,22,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,36,6,Yes,Female,Other Degree,Yes,No,West,White
+not insured,41,6,Yes,Male,Other Degree,Yes,No,West,White
+not insured,27,3,Yes,Male,Bachelor Degree,No,No,South,Black
+not insured,40,2,No,Male,No certificate,Yes,No,South,White
+not insured,25,1,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,40,2,Yes,Male,Bachelor Degree,No,Yes,West,White
+insured,50,4,Yes,Male,High School Diploma,Yes,Yes,NorthEast,White
+not insured,33,4,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+not insured,25,2,Yes,Female,High School Diploma,No,No,MidWest,Other
+not insured,22,1,Yes,Female,High School Diploma,No,No,West,Black
+not insured,34,4,Yes,Male,Bachelor Degree,Yes,No,NorthEast,White
+not insured,29,1,Yes,Male,No certificate,No,Yes,South,White
+not insured,24,3,Yes,Male,No certificate,No,Yes,South,White
+not insured,55,2,Yes,Male,Bachelor Degree,Yes,Yes,South,White
+not insured,35,6,Yes,Female,Bachelor Degree,No,No,South,Black
+not insured,34,6,Yes,Female,Master's Degree,No,No,South,Black
+not insured,36,6,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+not insured,32,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,50,2,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,55,2,No,Female,No certificate,Yes,No,West,Black
+not insured,20,3,Yes,Male,High School Diploma,No,No,South,Other
+not insured,35,3,Yes,Male,No certificate,No,No,MidWest,White
+not insured,48,1,Yes,Female,Other Degree,No,No,MidWest,White
+not insured,22,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,23,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,43,4,Yes,Female,High School Diploma,No,Yes,West,Black
+not insured,25,3,Yes,Male,Bachelor Degree,No,Yes,NorthEast,Other
+not insured,44,2,No,Male,No certificate,Yes,No,West,White
+not insured,58,3,Yes,Male,No certificate,No,No,South,White
+not insured,51,2,Yes,Female,High School Diploma,Yes,No,South,White
+insured,62,2,No,Male,No certificate,Yes,Yes,South,White
+not insured,32,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,34,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,30,6,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,30,2,Yes,Male,No certificate,No,No,West,White
+not insured,30,6,No,Male,High School Diploma,No,No,West,White
+not insured,42,7,Yes,Male,No certificate,Yes,No,West,White
+not insured,20,7,Yes,Male,No certificate,No,No,West,Other
+not insured,18,7,Yes,Male,No certificate,No,No,West,White
+not insured,23,1,Yes,Female,Other Degree,No,No,NorthEast,Black
+not insured,19,4,Yes,Female,No certificate,No,No,West,White
+not insured,29,2,Yes,Male,Bachelor Degree,Yes,No,MidWest,White
+not insured,39,3,Yes,Male,No certificate,Yes,Yes,NorthEast,White
+not insured,37,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,18,3,Yes,Female,No certificate,No,No,NorthEast,White
+not insured,45,4,Yes,Female,No certificate,Yes,No,South,White
+not insured,39,5,Yes,Male,No certificate,Yes,No,South,Black
+not insured,26,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,61,1,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,38,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,24,2,Yes,Male,High School Diploma,Yes,No,South,White
+insured,52,1,Yes,Male,Other Degree,No,Yes,NorthEast,White
+insured,59,3,Yes,Female,No certificate,No,Yes,MidWest,Black
+not insured,50,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,39,1,No,Male,No certificate,No,No,South,White
+not insured,47,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,38,3,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,22,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,23,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,32,5,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,32,1,Yes,Male,No certificate,No,No,MidWest,White
+not insured,18,2,Yes,Male,No certificate,No,No,MidWest,White
+not insured,40,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,36,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+insured,48,1,Yes,Female,High School Diploma,No,Yes,West,White
+not insured,39,8,Yes,Male,No certificate,Yes,Yes,West,White
+not insured,35,3,Yes,Male,No certificate,Yes,Yes,NorthEast,White
+insured,35,3,Yes,Female,No certificate,Yes,Yes,NorthEast,White
+not insured,50,5,Yes,Male,Bachelor Degree,Yes,No,NorthEast,Black
+not insured,59,2,Yes,Male,Other Degree,Yes,No,MidWest,White
+not insured,24,1,Yes,Male,Bachelor Degree,No,No,MidWest,White
+not insured,38,6,Yes,Male,High School Diploma,No,No,South,White
+not insured,28,4,Yes,Female,High School Diploma,No,No,South,White
+not insured,25,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,22,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,37,3,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,57,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,21,3,Yes,Male,Other Degree,Yes,No,South,White
+not insured,19,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,35,1,Yes,Male,Bachelor Degree,No,Yes,NorthEast,White
+not insured,49,1,Yes,Male,Other Degree,No,No,West,White
+not insured,26,3,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,41,2,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,32,5,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,43,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,42,3,Yes,Female,High School Diploma,No,No,South,Black
+not insured,21,1,Yes,Male,No certificate,No,Yes,West,White
+not insured,21,1,Yes,Male,No certificate,No,No,West,White
+not insured,46,13,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,37,13,Yes,Female,No certificate,Yes,No,South,White
+not insured,22,13,Yes,Male,No certificate,No,No,South,White
+not insured,61,2,Yes,Male,Other Degree,Yes,No,South,White
+not insured,54,2,No,Female,Other Degree,Yes,No,South,White
+not insured,24,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,46,5,Yes,Female,No certificate,Yes,No,West,White
+not insured,42,5,Yes,Male,No certificate,Yes,Yes,West,White
+not insured,25,2,Yes,Female,High School Diploma,No,No,West,White
+not insured,49,1,Yes,Female,High School Diploma,No,No,South,White
+insured,46,3,Yes,Male,High School Diploma,Yes,Yes,West,White
+not insured,25,1,No,Male,High School Diploma,No,No,MidWest,White
+not insured,32,2,Yes,Female,Bachelor Degree,No,No,West,White
+not insured,24,1,Yes,Male,High School Diploma,No,No,South,Black
+not insured,44,3,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,43,3,Yes,Female,No certificate,Yes,No,South,White
+not insured,18,3,Yes,Female,No certificate,No,No,South,White
+not insured,29,4,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,33,4,Yes,Male,No certificate,No,Yes,NorthEast,White
+not insured,38,2,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,43,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,24,2,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,28,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,25,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,26,5,Yes,Female,High School Diploma,Yes,No,South,White
+insured,50,1,Yes,Female,High School Diploma,No,Yes,South,White
+insured,52,2,Yes,Female,Other Degree,Yes,Yes,South,White
+insured,53,2,Yes,Male,No certificate,Yes,Yes,South,Black
+not insured,22,4,Yes,Female,High School Diploma,No,No,South,Black
+not insured,38,4,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,18,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,32,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,35,4,No,Male,No certificate,No,No,MidWest,White
+not insured,35,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,21,5,Yes,Male,No certificate,No,No,West,Other
+not insured,34,2,No,Female,High School Diploma,Yes,No,West,Black
+not insured,25,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,62,2,No,Male,No certificate,Yes,No,MidWest,White
+not insured,41,4,Yes,Female,High School Diploma,Yes,No,South,Black
+not insured,19,4,Yes,Male,High School Diploma,No,No,South,Black
+not insured,21,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,24,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,22,4,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,44,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,50,4,Yes,Female,Other Degree,Yes,No,NorthEast,White
+not insured,30,1,Yes,Female,No certificate,No,No,South,Black
+not insured,34,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,29,3,Yes,Male,High School Diploma,No,No,West,White
+not insured,58,3,Yes,Male,No certificate,Yes,No,West,White
+not insured,38,4,Yes,Female,High School Diploma,No,No,South,Black
+not insured,30,7,Yes,Male,No certificate,No,No,West,White
+insured,52,2,No,Male,No certificate,No,Yes,South,Other
+not insured,35,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,33,3,Yes,Male,No certificate,Yes,No,West,White
+not insured,49,5,Yes,Male,No certificate,Yes,No,West,Other
+not insured,38,5,Yes,Female,No certificate,Yes,No,West,Other
+not insured,25,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,39,5,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,36,5,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,18,5,Yes,Male,High School Diploma,No,No,South,White
+not insured,28,2,Yes,Female,High School Diploma,No,Yes,NorthEast,Black
+not insured,23,2,Yes,Female,High School Diploma,No,Yes,NorthEast,Black
+not insured,47,6,Yes,Male,High School Diploma,No,No,West,White
+insured,48,3,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,47,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,19,1,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,21,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,20,2,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,60,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,47,1,Yes,Female,Bachelor Degree,No,Yes,South,Black
+not insured,23,3,Yes,Male,Bachelor Degree,Yes,No,MidWest,Black
+not insured,23,1,Yes,Female,High School Diploma,No,No,West,Black
+not insured,20,1,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,54,1,Yes,Male,No certificate,No,No,South,Black
+not insured,19,2,No,Male,High School Diploma,Yes,No,South,White
+not insured,27,4,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,26,3,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,39,6,Yes,Male,No certificate,Yes,No,South,White
+not insured,39,6,Yes,Female,No certificate,Yes,No,South,White
+not insured,22,6,Yes,Female,No certificate,No,No,South,White
+not insured,19,6,Yes,Female,No certificate,No,No,South,White
+not insured,37,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,40,1,Yes,Male,Other Degree,No,No,NorthEast,White
+not insured,42,2,No,Male,High School Diploma,No,No,South,Black
+not insured,40,2,Yes,Male,No certificate,No,No,South,Black
+not insured,23,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,28,5,Yes,Female,High School Diploma,No,No,South,White
+not insured,23,1,Yes,Male,No certificate,No,No,West,White
+not insured,29,2,Yes,Male,No certificate,No,No,West,Black
+not insured,38,2,Yes,Male,No certificate,No,No,West,Black
+not insured,41,4,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,29,1,Yes,Male,No certificate,No,Yes,West,White
+not insured,41,2,Yes,Female,Other Degree,No,No,West,White
+not insured,29,2,No,Male,No certificate,Yes,No,South,White
+not insured,30,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,36,2,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+not insured,27,5,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,30,3,Yes,Male,No certificate,Yes,No,West,White
+not insured,24,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,27,1,Yes,Male,No certificate,No,No,South,White
+not insured,36,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,33,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+not insured,32,8,Yes,Female,No certificate,No,No,West,White
+not insured,34,5,Yes,Male,High School Diploma,No,Yes,South,White
+not insured,32,6,Yes,Male,No certificate,Yes,No,West,White
+not insured,39,1,Yes,Male,Other Degree,No,No,South,White
+not insured,30,4,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,28,6,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,26,6,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,49,4,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+not insured,18,4,Yes,Male,No certificate,No,No,MidWest,White
+not insured,32,3,Yes,Male,High School Diploma,No,Yes,South,White
+not insured,49,3,Yes,Male,High School Diploma,No,Yes,South,Black
+not insured,52,2,Yes,Male,No certificate,Yes,No,South,White
+insured,49,2,Yes,Female,No certificate,Yes,Yes,South,White
+not insured,23,2,Yes,Female,High School Diploma,No,No,NorthEast,Black
+not insured,35,6,Yes,Female,Bachelor Degree,Yes,No,MidWest,White
+not insured,37,2,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,54,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,53,3,Yes,Female,No certificate,Yes,No,MidWest,White
+not insured,39,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,47,3,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,47,1,Yes,Male,Other Degree,No,Yes,MidWest,White
+insured,45,3,No,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,18,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,34,2,Yes,Female,High School Diploma,No,No,West,Black
+insured,45,5,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,24,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,26,3,Yes,Male,No certificate,No,No,South,White
+not insured,29,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,29,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,32,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,42,5,Yes,Male,No certificate,Yes,Yes,MidWest,White
+not insured,18,5,Yes,Male,No certificate,No,No,MidWest,White
+not insured,21,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,25,3,Yes,Female,High School Diploma,No,No,West,White
+not insured,24,3,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,31,3,Yes,Male,No certificate,No,No,West,White
+not insured,27,9,Yes,Male,No certificate,No,No,South,Black
+not insured,27,3,Yes,Male,Bachelor Degree,No,No,South,White
+not insured,59,2,Yes,Male,No certificate,No,No,South,Black
+not insured,45,3,Yes,Female,High School Diploma,Yes,No,South,Black
+not insured,41,3,Yes,Male,High School Diploma,Yes,No,South,Black
+not insured,45,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,37,9,Yes,Male,Other Degree,Yes,No,South,White
+not insured,34,9,Yes,Female,No certificate,Yes,No,South,White
+not insured,26,1,Yes,Male,Bachelor Degree,No,No,NorthEast,White
+not insured,33,1,Yes,Male,No certificate,No,No,NorthEast,Black
+not insured,52,2,Yes,Male,No certificate,No,No,MidWest,Other
+not insured,21,2,Yes,Male,No certificate,No,No,MidWest,Other
+not insured,48,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,24,1,No,Female,No certificate,No,No,West,White
+not insured,44,6,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,35,6,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,45,1,Yes,Male,No certificate,No,No,South,White
+not insured,26,1,Yes,Male,Other Degree,No,No,South,White
+not insured,22,5,Yes,Male,High School Diploma,No,No,South,White
+not insured,21,1,Yes,Female,High School Diploma,No,No,MidWest,Black
+not insured,29,2,Yes,Male,No certificate,No,No,NorthEast,White
+not insured,50,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,22,4,Yes,Female,High School Diploma,No,No,West,Black
+not insured,32,3,Yes,Female,High School Diploma,No,No,South,White
+insured,53,1,Yes,Male,Bachelor Degree,No,Yes,NorthEast,White
+not insured,24,5,Yes,Female,Bachelor Degree,No,Yes,West,White
+not insured,26,2,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,33,3,Yes,Female,High School Diploma,No,No,South,Black
+not insured,29,4,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,54,2,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,21,4,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,29,3,Yes,Male,High School Diploma,No,No,MidWest,Black
+not insured,23,1,Yes,Female,High School Diploma,No,Yes,South,Black
+not insured,33,4,Yes,Male,No certificate,Yes,No,MidWest,White
+not insured,33,3,Yes,Female,Bachelor Degree,No,No,MidWest,White
+not insured,38,6,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,42,5,Yes,Female,No certificate,Yes,Yes,West,White
+not insured,40,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,44,4,No,Female,Other Degree,Yes,No,West,White
+not insured,36,2,Yes,Female,No certificate,No,No,MidWest,Black
+not insured,24,5,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,23,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,20,3,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,37,8,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,44,7,Yes,Male,No certificate,Yes,No,West,Other
+not insured,23,7,Yes,Male,No certificate,No,No,West,Other
+not insured,34,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,60,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,32,1,Yes,Male,Bachelor Degree,No,No,South,White
+insured,54,2,Yes,Female,High School Diploma,Yes,Yes,West,White
+not insured,58,4,Yes,Female,No certificate,No,No,MidWest,White
+insured,37,4,Yes,Female,High School Diploma,No,Yes,MidWest,White
+insured,34,4,Yes,Female,High School Diploma,No,Yes,MidWest,White
+not insured,31,2,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,24,4,Yes,Female,High School Diploma,No,Yes,MidWest,White
+not insured,22,2,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,52,5,Yes,Female,No certificate,No,No,South,White
+not insured,18,2,Yes,Female,No certificate,No,No,MidWest,White
+not insured,22,6,Yes,Male,High School Diploma,No,No,South,White
+not insured,38,1,Yes,Male,No certificate,No,No,West,White
+not insured,54,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,50,7,Yes,Male,No certificate,Yes,No,West,White
+not insured,21,7,Yes,Male,No certificate,No,No,West,White
+not insured,23,7,Yes,Male,No certificate,No,No,West,White
+not insured,21,7,Yes,Female,No certificate,No,No,West,White
+not insured,38,3,No,Male,No certificate,Yes,No,South,White
+not insured,29,6,Yes,Female,No certificate,Yes,No,South,White
+not insured,23,5,Yes,Female,Other Degree,No,No,South,White
+not insured,49,3,Yes,Male,Bachelor Degree,Yes,Yes,West,White
+not insured,18,1,Yes,Male,No certificate,No,No,NorthEast,White
+not insured,41,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,29,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,30,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,46,1,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,52,1,Yes,Female,High School Diploma,No,Yes,West,White
+not insured,33,6,Yes,Male,No certificate,No,No,West,White
+not insured,28,6,Yes,Female,No certificate,No,No,West,White
+not insured,28,6,Yes,Female,No certificate,No,No,West,White
+not insured,19,6,Yes,Male,No certificate,No,No,West,White
+not insured,18,6,Yes,Male,High School Diploma,No,No,West,White
+not insured,26,1,Yes,Male,Bachelor Degree,No,No,South,Black
+not insured,62,2,Yes,Male,No certificate,Yes,No,South,White
+not insured,47,2,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,56,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,34,2,Yes,Male,Other Degree,No,Yes,NorthEast,White
+not insured,39,1,Yes,Female,Other Degree,No,Yes,South,White
+not insured,24,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,41,3,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,48,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,35,3,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,48,6,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,19,6,Yes,Male,No certificate,No,No,South,White
+not insured,52,1,Yes,Male,No certificate,No,No,South,Black
+not insured,37,3,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,26,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,44,2,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+not insured,21,5,Yes,Female,Other Degree,Yes,No,West,White
+not insured,34,2,Yes,Female,High School Diploma,No,No,South,White
+not insured,26,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,22,3,No,Female,No certificate,Yes,No,South,White
+not insured,51,2,Yes,Female,High School Diploma,No,No,NorthEast,Black
+not insured,25,1,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,38,1,Yes,Male,High School Diploma,No,No,West,Black
+not insured,40,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,21,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,39,3,Yes,Female,High School Diploma,No,No,South,Black
+not insured,32,4,Yes,Male,High School Diploma,Yes,No,NorthEast,Black
+not insured,48,5,Yes,Female,Bachelor Degree,Yes,No,NorthEast,Black
+not insured,58,5,Yes,Male,High School Diploma,Yes,No,NorthEast,Black
+not insured,25,5,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,26,3,Yes,Female,High School Diploma,No,No,West,Black
+not insured,43,11,Yes,Male,No certificate,Yes,No,West,White
+not insured,31,11,Yes,Female,No certificate,Yes,No,West,White
+not insured,29,11,No,Female,High School Diploma,No,No,West,White
+not insured,36,11,Yes,Male,No certificate,Yes,No,West,White
+not insured,23,2,Yes,Female,No certificate,No,No,MidWest,Black
+insured,53,3,Yes,Male,High School Diploma,No,Yes,NorthEast,White
+not insured,37,7,Yes,Male,No certificate,Yes,No,South,White
+not insured,47,2,Yes,Female,High School Diploma,Yes,Yes,NorthEast,White
+not insured,25,5,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,20,5,Yes,Male,High School Diploma,No,No,South,White
+not insured,49,6,Yes,Female,High School Diploma,No,No,West,White
+not insured,24,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,21,4,Yes,Male,High School Diploma,No,No,South,White
+not insured,42,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,32,2,Yes,Male,High School Diploma,No,Yes,MidWest,White
+not insured,44,8,Yes,Male,No certificate,No,No,South,Black
+not insured,22,1,Yes,Male,No certificate,No,Yes,South,White
+not insured,25,1,Yes,Female,Other Degree,No,No,South,White
+not insured,40,2,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,25,4,Yes,Male,No certificate,No,No,West,White
+not insured,56,4,Yes,Male,No certificate,No,No,West,White
+not insured,27,4,Yes,Male,No certificate,No,No,West,White
+not insured,29,1,Yes,Male,No certificate,No,No,West,White
+not insured,54,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,23,4,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+not insured,44,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,33,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,23,2,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,58,2,Yes,Female,Bachelor Degree,Yes,No,West,White
+not insured,43,6,No,Male,No certificate,Yes,No,South,White
+insured,45,4,Yes,Female,High School Diploma,Yes,Yes,West,White
+not insured,27,4,No,Female,High School Diploma,Yes,No,West,White
+not insured,26,4,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,34,2,Yes,Female,High School Diploma,No,No,South,White
+not insured,33,1,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,56,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,32,5,Yes,Male,High School Diploma,No,No,South,White
+not insured,20,5,Yes,Female,High School Diploma,No,No,South,White
+not insured,22,8,Yes,Female,High School Diploma,No,No,MidWest,Black
+not insured,51,1,Yes,Female,No certificate,No,No,West,White
+not insured,32,11,Yes,Male,No certificate,Yes,No,West,White
+not insured,26,11,Yes,Male,No certificate,Yes,No,West,White
+not insured,20,11,Yes,Female,High School Diploma,No,No,West,White
+not insured,49,1,Yes,Female,Bachelor Degree,No,No,MidWest,Black
+not insured,48,6,Yes,Male,Other Degree,Yes,No,South,White
+not insured,40,6,Yes,Female,Other Degree,Yes,No,South,White
+not insured,24,4,Yes,Male,No certificate,No,No,South,White
+not insured,38,3,Yes,Male,No certificate,No,No,South,White
+not insured,42,3,Yes,Female,No certificate,No,No,South,White
+not insured,37,1,No,Male,No certificate,No,No,South,White
+not insured,22,3,No,Male,No certificate,Yes,No,West,White
+not insured,19,3,No,Female,No certificate,Yes,No,West,White
+not insured,25,1,Yes,Male,Bachelor Degree,No,No,West,White
+not insured,23,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,23,3,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,29,1,Yes,Male,High School Diploma,No,No,West,White
+insured,52,1,No,Female,No certificate,No,Yes,South,Black
+not insured,45,5,Yes,Female,High School Diploma,No,No,South,Black
+not insured,22,5,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,58,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,41,2,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,24,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,40,3,Yes,Male,No certificate,No,Yes,South,White
+not insured,24,3,Yes,Female,High School Diploma,No,No,South,White
+not insured,18,3,Yes,Male,No certificate,No,No,South,White
+not insured,44,2,Yes,Male,High School Diploma,No,No,South,Black
+not insured,43,2,No,Female,High School Diploma,No,No,South,Black
+not insured,27,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,55,5,Yes,Female,No certificate,No,No,South,White
+not insured,36,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,56,4,Yes,Male,Bachelor Degree,No,Yes,West,White
+not insured,44,3,No,Male,High School Diploma,Yes,Yes,NorthEast,White
+insured,41,3,Yes,Female,High School Diploma,Yes,Yes,NorthEast,White
+not insured,31,7,Yes,Female,High School Diploma,Yes,No,MidWest,Black
+not insured,20,4,Yes,Male,No certificate,No,No,South,White
+not insured,18,5,Yes,Male,High School Diploma,No,No,South,Black
+not insured,54,4,Yes,Female,Other Degree,Yes,No,NorthEast,White
+not insured,19,1,Yes,Male,High School Diploma,No,No,South,White
+not insured,43,4,Yes,Male,High School Diploma,Yes,Yes,NorthEast,Black
+not insured,35,4,Yes,Male,No certificate,No,No,West,White
+not insured,32,4,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,48,2,Yes,Male,No certificate,Yes,No,West,White
+not insured,37,2,No,Female,High School Diploma,Yes,No,West,White
+not insured,37,2,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,29,3,Yes,Male,No certificate,Yes,No,West,White
+not insured,34,1,Yes,Male,Bachelor Degree,No,Yes,West,White
+not insured,44,5,No,Female,No certificate,Yes,No,South,White
+not insured,25,5,Yes,Female,No certificate,No,No,South,White
+not insured,21,1,Yes,Male,No certificate,No,No,West,White
+not insured,34,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,37,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,39,3,Yes,Female,No certificate,No,No,South,Black
+not insured,21,3,Yes,Male,High School Diploma,No,No,South,Black
+not insured,19,3,Yes,Male,No certificate,No,No,South,Black
+not insured,27,6,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,49,2,Yes,Male,Bachelor Degree,Yes,Yes,West,White
+insured,52,2,Yes,Female,Other Degree,Yes,Yes,West,White
+not insured,40,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,31,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,50,1,Yes,Male,High School Diploma,No,No,West,White
+not insured,27,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,31,4,Yes,Male,High School Diploma,Yes,Yes,South,White
+not insured,31,4,Yes,Female,Bachelor Degree,Yes,No,South,White
+not insured,39,2,Yes,Female,Other Degree,Yes,Yes,South,White
+insured,52,2,Yes,Male,Other Degree,Yes,Yes,South,White
+not insured,34,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,27,7,Yes,Male,No certificate,Yes,No,West,White
+not insured,31,7,Yes,Male,No certificate,No,No,West,White
+not insured,40,3,Yes,Female,High School Diploma,No,No,West,White
+not insured,57,4,Yes,Male,No certificate,No,No,South,Other
+not insured,23,2,Yes,Male,No certificate,No,No,South,Black
+not insured,28,5,Yes,Male,No certificate,Yes,No,South,White
+not insured,36,1,Yes,Female,High School Diploma,No,No,West,Black
+not insured,30,5,Yes,Male,High School Diploma,Yes,No,West,White
+not insured,31,5,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,33,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,24,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,22,2,No,Female,No certificate,Yes,No,South,White
+not insured,56,2,Yes,Male,No certificate,Yes,Yes,South,White
+not insured,30,1,Yes,Male,High School Diploma,No,No,NorthEast,Black
+not insured,43,4,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,59,2,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,41,6,Yes,Male,No certificate,Yes,Yes,West,White
+not insured,19,6,Yes,Male,High School Diploma,No,No,West,White
+not insured,35,4,Yes,Male,No certificate,Yes,No,MidWest,White
+not insured,18,4,Yes,Female,No certificate,No,No,MidWest,White
+not insured,32,4,Yes,Male,No certificate,No,No,MidWest,White
+not insured,38,2,Yes,Female,High School Diploma,No,No,MidWest,White
+not insured,42,3,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,23,2,Yes,Male,Bachelor Degree,No,No,MidWest,White
+not insured,56,1,Yes,Male,Bachelor Degree,No,Yes,West,White
+not insured,21,1,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,47,2,No,Female,No certificate,No,No,South,White
+not insured,33,3,Yes,Male,High School Diploma,No,No,MidWest,White
+not insured,34,4,Yes,Female,High School Diploma,No,No,South,Black
+not insured,53,2,Yes,Male,High School Diploma,No,No,South,White
+not insured,37,4,Yes,Female,High School Diploma,No,No,South,Black
+not insured,25,3,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,54,2,No,Male,No certificate,Yes,No,South,White
+not insured,35,5,Yes,Male,High School Diploma,Yes,Yes,MidWest,White
+insured,37,5,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,55,2,Yes,Male,High School Diploma,Yes,Yes,West,White
+insured,51,2,Yes,Female,High School Diploma,Yes,Yes,West,White
+not insured,47,2,Yes,Male,High School Diploma,Yes,No,South,White
+not insured,43,3,Yes,Female,Bachelor Degree,No,No,MidWest,Black
+not insured,40,2,Yes,Male,Other Degree,Yes,No,MidWest,White
+not insured,36,2,Yes,Female,Other Degree,Yes,No,MidWest,White
+not insured,55,1,Yes,Male,No certificate,No,No,NorthEast,White
+not insured,32,2,Yes,Male,High School Diploma,No,No,West,White
+not insured,54,2,No,Male,High School Diploma,Yes,No,South,Black
+not insured,40,3,Yes,Male,Bachelor Degree,Yes,Yes,South,White
+not insured,30,4,Yes,Male,No certificate,No,No,West,White
+not insured,47,3,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,39,4,No,Male,High School Diploma,Yes,No,South,White
+not insured,61,5,No,Female,No certificate,Yes,No,South,White
+not insured,27,5,No,Female,High School Diploma,No,No,South,Black
+not insured,29,4,Yes,Male,No certificate,Yes,No,West,White
+not insured,45,3,Yes,Male,Other Degree,No,No,West,White
+not insured,47,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,41,3,Yes,Female,No certificate,Yes,No,South,White
+not insured,19,3,Yes,Female,No certificate,No,No,South,White
+insured,46,4,Yes,Female,High School Diploma,Yes,Yes,West,White
+not insured,31,4,Yes,Male,Bachelor Degree,No,No,South,White
+not insured,31,5,Yes,Male,No certificate,No,No,MidWest,White
+not insured,55,3,Yes,Male,No certificate,Yes,No,NorthEast,White
+not insured,46,2,No,Female,No certificate,Yes,No,South,White
+not insured,41,4,Yes,Female,High School Diploma,Yes,No,West,White
+not insured,35,4,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,35,2,Yes,Female,High School Diploma,No,No,South,Black
+not insured,25,7,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,25,7,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,33,4,Yes,Male,No certificate,Yes,No,South,White
+not insured,30,3,Yes,Female,No certificate,No,No,South,White
+not insured,26,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,27,6,No,Male,High School Diploma,Yes,No,West,White
+not insured,49,2,Yes,Male,Other Degree,No,Yes,South,White
+not insured,49,2,Yes,Female,High School Diploma,No,No,West,White
+not insured,28,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,25,5,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,41,5,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,41,5,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,28,3,Yes,Female,No certificate,Yes,Yes,NorthEast,Black
+not insured,27,6,Yes,Male,High School Diploma,No,No,West,Black
+not insured,24,2,Yes,Female,High School Diploma,Yes,No,NorthEast,White
+not insured,44,3,Yes,Female,High School Diploma,No,No,NorthEast,Black
+insured,48,1,Yes,Male,No certificate,No,Yes,NorthEast,Black
+not insured,36,3,Yes,Male,High School Diploma,No,No,South,White
+not insured,44,4,Yes,Female,Bachelor Degree,No,No,NorthEast,White
+not insured,20,1,Yes,Male,No certificate,No,Yes,South,White
+not insured,26,1,Yes,Male,No certificate,No,No,NorthEast,White
+not insured,24,5,Yes,Male,High School Diploma,No,Yes,South,White
+not insured,19,5,Yes,Male,No certificate,No,No,South,White
+not insured,35,8,Yes,Female,High School Diploma,No,No,South,Black
+not insured,39,1,Yes,Female,High School Diploma,No,Yes,West,White
+not insured,25,4,Yes,Female,High School Diploma,No,No,NorthEast,Black
+not insured,40,5,Yes,Male,Bachelor Degree,Yes,No,South,White
+insured,45,1,Yes,Female,No certificate,No,Yes,MidWest,Black
+not insured,57,2,No,Female,No certificate,No,No,South,White
+not insured,20,2,Yes,Male,No certificate,No,No,South,White
+not insured,50,1,Yes,Male,Bachelor Degree,No,No,West,White
+not insured,46,1,No,Male,High School Diploma,No,No,South,White
+not insured,44,2,Yes,Female,High School Diploma,Yes,Yes,MidWest,White
+not insured,20,3,Yes,Male,High School Diploma,Yes,No,MidWest,White
+not insured,19,3,Yes,Female,High School Diploma,Yes,No,MidWest,White
+not insured,30,4,Yes,Male,High School Diploma,Yes,No,NorthEast,White
+not insured,29,4,Yes,Female,Bachelor Degree,Yes,No,NorthEast,White
+insured,51,2,Yes,Female,High School Diploma,Yes,Yes,South,White
+not insured,53,2,Yes,Male,Other Degree,Yes,No,South,White
+insured,48,2,Yes,Male,High School Diploma,No,Yes,NorthEast,Black
+not insured,28,5,Yes,Female,High School Diploma,No,No,NorthEast,White
+not insured,35,5,Yes,Male,No certificate,Yes,No,West,White
+not insured,45,4,Yes,Male,No certificate,Yes,No,NorthEast,White
+not insured,31,5,Yes,Male,High School Diploma,No,No,West,White
+not insured,19,6,Yes,Female,No certificate,No,No,NorthEast,White
+not insured,44,6,Yes,Male,High School Diploma,No,No,NorthEast,White
+not insured,33,4,Yes,Female,High School Diploma,Yes,No,South,White
+not insured,19,4,Yes,Male,High School Diploma,No,No,South,White
+not insured,25,8,Yes,Male,High School Diploma,No,No,MidWest,White
+insured,52,2,Yes,Male,No certificate,Yes,Yes,MidWest,White
+not insured,57,3,Yes,Male,No certificate,Yes,No,South,White
+not insured,20,3,Yes,Female,High School Diploma,No,No,West,White
+not insured,28,3,Yes,Female,High School Diploma,Yes,No,South,Black
+not insured,43,2,No,Female,High School Diploma,Yes,No,South,White
+not insured,25,2,Yes,Female,Bachelor Degree,Yes,No,South,White
+not insured,56,3,No,Male,No certificate,Yes,No,South,White
+insured,58,3,Yes,Male,Bachelor Degree,Yes,Yes,South,White
